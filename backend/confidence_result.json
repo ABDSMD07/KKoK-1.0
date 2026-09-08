@@ -1,0 +1,775 @@
+{
+  "confidence_version": "1.0",
+  "source_validation_version": "1.0",
+  "source_normalization_version": "1.0",
+  "source_extraction_version": "1.1",
+  "document_id": "DOC-6548A9AB",
+  "summary": {
+    "record_confidence_score": 32.92,
+    "record_confidence_level": "critical",
+    "field_count": 21,
+    "present_field_count": 8,
+    "missing_field_count": 13,
+    "completeness_score": 38.1,
+    "mean_field_confidence": 31.2,
+    "duplicate_classification": "not_duplicate",
+    "duplicate_risk_score": 0.0,
+    "duplicate_penalty": 0.0,
+    "review_required": "required",
+    "review_reasons": [
+      "15 field(s) require review.",
+      "Record confidence is below the automatic acceptance threshold."
+    ],
+    "fields_requiring_review": [
+      "owner_name",
+      "father_name",
+      "address",
+      "village",
+      "tehsil",
+      "district",
+      "khasra_number",
+      "khata_number",
+      "plot_area",
+      "serial_number",
+      "ownership_owner_name",
+      "ownership_share",
+      "nature_of_rights",
+      "mutation_entry_number",
+      "sub_registrar_office"
+    ]
+  },
+  "fields": {
+    "owner_name": {
+      "field": "owner_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "owner_name",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "father_name": {
+      "field": "father_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "father_name",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "address": {
+      "field": "address",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "address",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "village": {
+      "field": "village",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "village",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "tehsil": {
+      "field": "tehsil",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "tehsil",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "district": {
+      "field": "district",
+      "value": "eee",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": "NORTHERN | DISTRICT eee",
+      "source_line_ids": [
+        13
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "district",
+      "raw_value": "eee",
+      "normalized_value": "eee",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "warning",
+      "validation_issues": [
+        {
+          "code": "LOCATION_REPEATED_CHARACTER",
+          "severity": "warning",
+          "message": "Location contains an unusually repeated single character and may be OCR noise.",
+          "field": "district",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 64.0,
+      "confidence_level": "low",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 55.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Validation produced warning(s).; Confidence is below the automatic acceptance threshold."
+    },
+    "survey_number": {
+      "field": "survey_number",
+      "value": "54/2",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": "— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2",
+      "source_line_ids": [
+        11
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "survey number",
+      "raw_value": "54/2",
+      "normalized_value": "54/2",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_review": "not_required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 100.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Field has sufficient supporting evidence."
+    },
+    "khasra_number": {
+      "field": "khasra_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "khasra_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "khata_number": {
+      "field": "khata_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "khata_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "plot_area": {
+      "field": "plot_area",
+      "value": "10.5",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND CHARACTERISTICS",
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "plot area",
+      "raw_value": "10.5",
+      "normalized_value": "10.5",
+      "structured_value": {
+        "value": "10.5",
+        "unit": null
+      },
+      "normalization_status": "normalized",
+      "validation_status": "warning",
+      "validation_issues": [
+        {
+          "code": "AREA_UNIT_MISSING",
+          "severity": "warning",
+          "message": "Area value does not include a unit.",
+          "field": "plot_area",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 64.0,
+      "confidence_level": "low",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 55.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Validation produced warning(s).; Confidence is below the automatic acceptance threshold."
+    },
+    "land_classification": {
+      "field": "land_classification",
+      "value": "IRRIGATED | AGRICULTURAL | LANO",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND CHARACTERISTICS",
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "land classification",
+      "raw_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "normalized_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_review": "not_required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 100.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Field has sufficient supporting evidence."
+    },
+    "serial_number": {
+      "field": "serial_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "serial_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "ownership_owner_name": {
+      "field": "ownership_owner_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "ownership_owner_name",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "ownership_share": {
+      "field": "ownership_share",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "ownership_share",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "nature_of_rights": {
+      "field": "nature_of_rights",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "nature_of_rights",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "mutation_entry_number": {
+      "field": "mutation_entry_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "mutation_entry_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "mutation_date": {
+      "field": "mutation_date",
+      "value": "12/03/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": "AE oe | = | y | Date: 12/03/2018",
+      "source_line_ids": [
+        26
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date",
+      "raw_value": "12/03/2018",
+      "normalized_value": "2018-03-12",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_review": "not_required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 100.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Field has sufficient supporting evidence."
+    },
+    "mutation_type": {
+      "field": "mutation_type",
+      "value": "Inheritance (from | Robert L. Sterling).",
+      "status": "extracted",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": "ae | Type: Inheritance (from | Robert L. Sterling).",
+      "source_line_ids": [
+        27
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "type",
+      "raw_value": "Inheritance (from | Robert L. Sterling).",
+      "normalized_value": "Inheritance (from | Robert L. Sterling).",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_review": "not_required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 100.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Field has sufficient supporting evidence."
+    },
+    "registered_document_number": {
+      "field": "registered_document_number",
+      "value": "789/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": "SS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N",
+      "source_line_ids": [
+        31
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "registered document no",
+      "raw_value": "789/2018",
+      "normalized_value": "789/2018",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_review": "not_required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 100.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Field has sufficient supporting evidence."
+    },
+    "sub_registrar_office": {
+      "field": "sub_registrar_office",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "sub_registrar_office",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_review": "required",
+      "confidence_components": {
+        "evidence_score": 0.0,
+        "validation_score": 0.0,
+        "normalization_score": 0.0,
+        "source_completeness_score": 0.0
+      },
+      "confidence_reason": "Field has no normalized value."
+    },
+    "registration_date": {
+      "field": "registration_date",
+      "value": "15/03/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": "Se ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar",
+      "source_line_ids": [
+        33
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date",
+      "raw_value": "15/03/2018",
+      "normalized_value": "2018-03-15",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_review": "not_required",
+      "confidence_components": {
+        "evidence_score": 72.0,
+        "validation_score": 100.0,
+        "normalization_score": 100.0,
+        "source_completeness_score": 75.0
+      },
+      "confidence_reason": "Field has sufficient supporting evidence."
+    }
+  },
+  "duplicate_information": {
+    "classification": "not_duplicate",
+    "risk_score": 0.0,
+    "penalty": 0.0
+  }
+}

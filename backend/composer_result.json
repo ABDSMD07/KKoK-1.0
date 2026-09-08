@@ -1,0 +1,3750 @@
+{
+  "layout_version": "1.2",
+  "pages": [
+    {
+      "page_number": 1,
+      "image": "page_0001.png",
+      "dimensions": {
+        "width": null,
+        "height": null
+      },
+      "lines": [
+        {
+          "line_id": "line_1",
+          "text": "= ee",
+          "bbox": {
+            "x": 0.0,
+            "y": 28.0,
+            "width": 748.0,
+            "height": 69.0
+          },
+          "confidence": 23.5,
+          "word_count": 2,
+          "words": [
+            {
+              "text": "=",
+              "confidence": 18.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 37.0,
+                "width": 279.0,
+                "height": 60.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 29.0,
+              "bbox": {
+                "x": 470.0,
+                "y": 28.0,
+                "width": 278.0,
+                "height": 54.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_2",
+          "text": "sp Government of [State/Country] - Department of Revenue a",
+          "bbox": {
+            "x": 818.0,
+            "y": 294.0,
+            "width": 1392.0,
+            "height": 51.0
+          },
+          "confidence": 80.78,
+          "word_count": 9,
+          "words": [
+            {
+              "text": "sp",
+              "confidence": 18.0,
+              "bbox": {
+                "x": 818.0,
+                "y": 310.0,
+                "width": 42.0,
+                "height": 35.0
+              }
+            },
+            {
+              "text": "Government",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1107.0,
+                "y": 313.0,
+                "width": 152.0,
+                "height": 28.0
+              }
+            },
+            {
+              "text": "of",
+              "confidence": 92.0,
+              "bbox": {
+                "x": 1268.0,
+                "y": 308.0,
+                "width": 25.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "[State/Country]",
+              "confidence": 91.0,
+              "bbox": {
+                "x": 1302.0,
+                "y": 302.0,
+                "width": 364.0,
+                "height": 39.0
+              }
+            },
+            {
+              "text": "-",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1503.0,
+                "y": 296.0,
+                "width": 13.0,
+                "height": 49.0
+              }
+            },
+            {
+              "text": "Department",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1527.0,
+                "y": 302.0,
+                "width": 136.0,
+                "height": 39.0
+              }
+            },
+            {
+              "text": "of",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1675.0,
+                "y": 300.0,
+                "width": 26.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "Revenue",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1710.0,
+                "y": 301.0,
+                "width": 107.0,
+                "height": 27.0
+              }
+            },
+            {
+              "text": "a",
+              "confidence": 49.0,
+              "bbox": {
+                "x": 2175.0,
+                "y": 294.0,
+                "width": 35.0,
+                "height": 34.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_3",
+          "text": "; Se ee",
+          "bbox": {
+            "x": 116.0,
+            "y": 321.0,
+            "width": 514.0,
+            "height": 36.0
+          },
+          "confidence": 18.67,
+          "word_count": 3,
+          "words": [
+            {
+              "text": ";",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 116.0,
+                "y": 350.0,
+                "width": 4.0,
+                "height": 3.0
+              }
+            },
+            {
+              "text": "Se",
+              "confidence": 25.0,
+              "bbox": {
+                "x": 275.0,
+                "y": 321.0,
+                "width": 63.0,
+                "height": 36.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 31.0,
+              "bbox": {
+                "x": 437.0,
+                "y": 324.0,
+                "width": 193.0,
+                "height": 30.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_4",
+          "text": "SS See — LANDOWNER DETAILS",
+          "bbox": {
+            "x": 43.0,
+            "y": 364.0,
+            "width": 1198.0,
+            "height": 49.0
+          },
+          "confidence": 61.2,
+          "word_count": 5,
+          "words": [
+            {
+              "text": "SS",
+              "confidence": 41.0,
+              "bbox": {
+                "x": 43.0,
+                "y": 375.0,
+                "width": 205.0,
+                "height": 36.0
+              }
+            },
+            {
+              "text": "See",
+              "confidence": 13.0,
+              "bbox": {
+                "x": 526.0,
+                "y": 386.0,
+                "width": 189.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "—",
+              "confidence": 60.0,
+              "bbox": {
+                "x": 823.0,
+                "y": 402.0,
+                "width": 29.0,
+                "height": 8.0
+              }
+            },
+            {
+              "text": "LANDOWNER",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 953.0,
+                "y": 364.0,
+                "width": 152.0,
+                "height": 49.0
+              }
+            },
+            {
+              "text": "DETAILS",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1124.0,
+                "y": 364.0,
+                "width": 117.0,
+                "height": 49.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_5",
+          "text": "SESS",
+          "bbox": {
+            "x": 263.0,
+            "y": 411.0,
+            "width": 151.0,
+            "height": 4.0
+          },
+          "confidence": 13.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "SESS",
+              "confidence": 13.0,
+              "bbox": {
+                "x": 263.0,
+                "y": 411.0,
+                "width": 151.0,
+                "height": 4.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_6",
+          "text": "<a Z",
+          "bbox": {
+            "x": 2228.0,
+            "y": 423.0,
+            "width": 205.0,
+            "height": 43.0
+          },
+          "confidence": 43.0,
+          "word_count": 2,
+          "words": [
+            {
+              "text": "<a",
+              "confidence": 14.0,
+              "bbox": {
+                "x": 2228.0,
+                "y": 431.0,
+                "width": 46.0,
+                "height": 28.0
+              }
+            },
+            {
+              "text": "Z",
+              "confidence": 72.0,
+              "bbox": {
+                "x": 2376.0,
+                "y": 423.0,
+                "width": 57.0,
+                "height": 43.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_7",
+          "text": "SS ee Late Robert L. Sterling",
+          "bbox": {
+            "x": 34.0,
+            "y": 444.0,
+            "width": 1334.0,
+            "height": 58.0
+          },
+          "confidence": 69.0,
+          "word_count": 6,
+          "words": [
+            {
+              "text": "SS",
+              "confidence": 53.0,
+              "bbox": {
+                "x": 34.0,
+                "y": 458.0,
+                "width": 394.0,
+                "height": 40.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 29.0,
+              "bbox": {
+                "x": 441.0,
+                "y": 455.0,
+                "width": 227.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "Late",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1143.0,
+                "y": 465.0,
+                "width": 43.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "Robert",
+              "confidence": 70.0,
+              "bbox": {
+                "x": 1193.0,
+                "y": 463.0,
+                "width": 84.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "L.",
+              "confidence": 70.0,
+              "bbox": {
+                "x": 1264.0,
+                "y": 444.0,
+                "width": 16.0,
+                "height": 58.0
+              }
+            },
+            {
+              "text": "Sterling",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1291.0,
+                "y": 461.0,
+                "width": 77.0,
+                "height": 28.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_8",
+          "text": "eee =~ 123 Maple Lane, Green Valley",
+          "bbox": {
+            "x": 329.0,
+            "y": 493.0,
+            "width": 1112.0,
+            "height": 61.0
+          },
+          "confidence": 69.14,
+          "word_count": 7,
+          "words": [
+            {
+              "text": "eee",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 329.0,
+                "y": 493.0,
+                "width": 209.0,
+                "height": 61.0
+              }
+            },
+            {
+              "text": "=~",
+              "confidence": 16.0,
+              "bbox": {
+                "x": 726.0,
+                "y": 512.0,
+                "width": 121.0,
+                "height": 32.0
+              }
+            },
+            {
+              "text": "123",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1142.0,
+                "y": 508.0,
+                "width": 37.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "Maple",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1186.0,
+                "y": 506.0,
+                "width": 62.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "Lane,",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1255.0,
+                "y": 499.0,
+                "width": 48.0,
+                "height": 40.0
+              }
+            },
+            {
+              "text": "Green",
+              "confidence": 89.0,
+              "bbox": {
+                "x": 1314.0,
+                "y": 505.0,
+                "width": 55.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "Valley",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1380.0,
+                "y": 503.0,
+                "width": 61.0,
+                "height": 28.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_9",
+          "text": "SSS",
+          "bbox": {
+            "x": 27.0,
+            "y": 520.0,
+            "width": 272.0,
+            "height": 37.0
+          },
+          "confidence": 19.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "SSS",
+              "confidence": 19.0,
+              "bbox": {
+                "x": 27.0,
+                "y": 520.0,
+                "width": 272.0,
+                "height": 37.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_10",
+          "text": "Se == © FSS : LAND IDENTIFICATION",
+          "bbox": {
+            "x": 23.0,
+            "y": 566.0,
+            "width": 1217.0,
+            "height": 49.0
+          },
+          "confidence": 43.71,
+          "word_count": 7,
+          "words": [
+            {
+              "text": "Se",
+              "confidence": 41.0,
+              "bbox": {
+                "x": 23.0,
+                "y": 591.0,
+                "width": 249.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "==",
+              "confidence": 41.0,
+              "bbox": {
+                "x": 386.0,
+                "y": 584.0,
+                "width": 51.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "©",
+              "confidence": 1.0,
+              "bbox": {
+                "x": 558.0,
+                "y": 587.0,
+                "width": 22.0,
+                "height": 17.0
+              }
+            },
+            {
+              "text": "FSS",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 651.0,
+                "y": 582.0,
+                "width": 53.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": ":",
+              "confidence": 31.0,
+              "bbox": {
+                "x": 840.0,
+                "y": 581.0,
+                "width": 4.0,
+                "height": 4.0
+              }
+            },
+            {
+              "text": "LAND",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 957.0,
+                "y": 570.0,
+                "width": 69.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "IDENTIFICATION",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1035.0,
+                "y": 566.0,
+                "width": 205.0,
+                "height": 29.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_11",
+          "text": "— gS ee ee aS GREEN VALLEY Survey Number / 54/2",
+          "bbox": {
+            "x": 18.0,
+            "y": 594.0,
+            "width": 1852.0,
+            "height": 54.0
+          },
+          "confidence": 63.27,
+          "word_count": 11,
+          "words": [
+            {
+              "text": "—",
+              "confidence": 28.0,
+              "bbox": {
+                "x": 18.0,
+                "y": 615.0,
+                "width": 24.0,
+                "height": 9.0
+              }
+            },
+            {
+              "text": "gS",
+              "confidence": 18.0,
+              "bbox": {
+                "x": 122.0,
+                "y": 607.0,
+                "width": 345.0,
+                "height": 28.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 18.0,
+              "bbox": {
+                "x": 389.0,
+                "y": 624.0,
+                "width": 182.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 26.0,
+              "bbox": {
+                "x": 560.0,
+                "y": 605.0,
+                "width": 232.0,
+                "height": 25.0
+              }
+            },
+            {
+              "text": "aS",
+              "confidence": 41.0,
+              "bbox": {
+                "x": 798.0,
+                "y": 628.0,
+                "width": 57.0,
+                "height": 4.0
+              }
+            },
+            {
+              "text": "GREEN",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1114.0,
+                "y": 615.0,
+                "width": 65.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "VALLEY",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1190.0,
+                "y": 602.0,
+                "width": 80.0,
+                "height": 46.0
+              }
+            },
+            {
+              "text": "Survey",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1459.0,
+                "y": 607.0,
+                "width": 49.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "Number",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1539.0,
+                "y": 604.0,
+                "width": 97.0,
+                "height": 25.0
+              }
+            },
+            {
+              "text": "/",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1627.0,
+                "y": 594.0,
+                "width": 12.0,
+                "height": 46.0
+              }
+            },
+            {
+              "text": "54/2",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1801.0,
+                "y": 613.0,
+                "width": 69.0,
+                "height": 35.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_12",
+          "text": "SS ase a Khssra Number",
+          "bbox": {
+            "x": 16.0,
+            "y": 608.0,
+            "width": 1611.0,
+            "height": 72.0
+          },
+          "confidence": 53.2,
+          "word_count": 5,
+          "words": [
+            {
+              "text": "SS",
+              "confidence": 47.0,
+              "bbox": {
+                "x": 16.0,
+                "y": 627.0,
+                "width": 508.0,
+                "height": 53.0
+              }
+            },
+            {
+              "text": "ase",
+              "confidence": 23.0,
+              "bbox": {
+                "x": 26.0,
+                "y": 640.0,
+                "width": 80.0,
+                "height": 11.0
+              }
+            },
+            {
+              "text": "a",
+              "confidence": 19.0,
+              "bbox": {
+                "x": 182.0,
+                "y": 633.0,
+                "width": 102.0,
+                "height": 17.0
+              }
+            },
+            {
+              "text": "Khssra",
+              "confidence": 81.0,
+              "bbox": {
+                "x": 1456.0,
+                "y": 608.0,
+                "width": 80.0,
+                "height": 64.0
+              }
+            },
+            {
+              "text": "Number",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1546.0,
+                "y": 608.0,
+                "width": 81.0,
+                "height": 64.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_13",
+          "text": "NORTHERN DISTRICT eee",
+          "bbox": {
+            "x": 1115.0,
+            "y": 644.0,
+            "width": 500.0,
+            "height": 59.0
+          },
+          "confidence": 63.67,
+          "word_count": 3,
+          "words": [
+            {
+              "text": "NORTHERN",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1115.0,
+                "y": 658.0,
+                "width": 109.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "DISTRICT",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1238.0,
+                "y": 656.0,
+                "width": 96.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "eee",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 1550.0,
+                "y": 644.0,
+                "width": 65.0,
+                "height": 59.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_14",
+          "text": "ae a Sata",
+          "bbox": {
+            "x": 53.0,
+            "y": 673.0,
+            "width": 1468.0,
+            "height": 35.0
+          },
+          "confidence": 25.33,
+          "word_count": 3,
+          "words": [
+            {
+              "text": "ae",
+              "confidence": 36.0,
+              "bbox": {
+                "x": 53.0,
+                "y": 679.0,
+                "width": 148.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "a",
+              "confidence": 12.0,
+              "bbox": {
+                "x": 286.0,
+                "y": 673.0,
+                "width": 428.0,
+                "height": 28.0
+              }
+            },
+            {
+              "text": "Sata",
+              "confidence": 28.0,
+              "bbox": {
+                "x": 1461.0,
+                "y": 676.0,
+                "width": 60.0,
+                "height": 23.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_15",
+          "text": "= LAND CHARACTERISTICS :",
+          "bbox": {
+            "x": 599.0,
+            "y": 753.0,
+            "width": 1778.0,
+            "height": 37.0
+          },
+          "confidence": 66.5,
+          "word_count": 4,
+          "words": [
+            {
+              "text": "=",
+              "confidence": 56.0,
+              "bbox": {
+                "x": 599.0,
+                "y": 765.0,
+                "width": 145.0,
+                "height": 13.0
+              }
+            },
+            {
+              "text": "LAND",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 961.0,
+                "y": 764.0,
+                "width": 70.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "CHARACTERISTICS",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1039.0,
+                "y": 760.0,
+                "width": 247.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": ":",
+              "confidence": 18.0,
+              "bbox": {
+                "x": 2369.0,
+                "y": 753.0,
+                "width": 8.0,
+                "height": 8.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_16",
+          "text": "ee ee",
+          "bbox": {
+            "x": 0.0,
+            "y": 752.0,
+            "width": 481.0,
+            "height": 69.0
+          },
+          "confidence": 29.5,
+          "word_count": 2,
+          "words": [
+            {
+              "text": "ee",
+              "confidence": 23.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 752.0,
+                "width": 341.0,
+                "height": 69.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 36.0,
+              "bbox": {
+                "x": 422.0,
+                "y": 771.0,
+                "width": 59.0,
+                "height": 32.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_17",
+          "text": "SS = Plot Area 10.5 ACRES Land Classification | IRRIGATED AGRICULTURAL LANO",
+          "bbox": {
+            "x": 1.0,
+            "y": 794.0,
+            "width": 1977.0,
+            "height": 53.0
+          },
+          "confidence": 87.58,
+          "word_count": 12,
+          "words": [
+            {
+              "text": "SS",
+              "confidence": 22.0,
+              "bbox": {
+                "x": 1.0,
+                "y": 815.0,
+                "width": 114.0,
+                "height": 32.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 816.0,
+                "y": 833.0,
+                "width": 26.0,
+                "height": 3.0
+              }
+            },
+            {
+              "text": "Plot",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 964.0,
+                "y": 813.0,
+                "width": 41.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "Area",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1016.0,
+                "y": 813.0,
+                "width": 45.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "10.5",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1145.0,
+                "y": 811.0,
+                "width": 46.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "ACRES",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1202.0,
+                "y": 810.0,
+                "width": 68.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "Land",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1392.0,
+                "y": 807.0,
+                "width": 45.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "Classification",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1449.0,
+                "y": 806.0,
+                "width": 143.0,
+                "height": 25.0
+              }
+            },
+            {
+              "text": "|",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1609.0,
+                "y": 794.0,
+                "width": 12.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "IRRIGATED",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1631.0,
+                "y": 794.0,
+                "width": 110.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "AGRICULTURAL",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1751.0,
+                "y": 794.0,
+                "width": 155.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "LANO",
+              "confidence": 78.0,
+              "bbox": {
+                "x": 1920.0,
+                "y": 794.0,
+                "width": 58.0,
+                "height": 45.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_18",
+          "text": "Ss = 4 (4.25 Hectares) (Category A)",
+          "bbox": {
+            "x": 175.0,
+            "y": 824.0,
+            "width": 1698.0,
+            "height": 59.0
+          },
+          "confidence": 77.29,
+          "word_count": 7,
+          "words": [
+            {
+              "text": "Ss",
+              "confidence": 15.0,
+              "bbox": {
+                "x": 175.0,
+                "y": 835.0,
+                "width": 171.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 58.0,
+              "bbox": {
+                "x": 364.0,
+                "y": 840.0,
+                "width": 24.0,
+                "height": 21.0
+              }
+            },
+            {
+              "text": "4",
+              "confidence": 86.0,
+              "bbox": {
+                "x": 412.0,
+                "y": 833.0,
+                "width": 37.0,
+                "height": 50.0
+              }
+            },
+            {
+              "text": "(4.25",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1145.0,
+                "y": 840.0,
+                "width": 54.0,
+                "height": 30.0
+              }
+            },
+            {
+              "text": "Hectares)",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1209.0,
+                "y": 831.0,
+                "width": 97.0,
+                "height": 43.0
+              }
+            },
+            {
+              "text": "(Category",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1740.0,
+                "y": 832.0,
+                "width": 128.0,
+                "height": 31.0
+              }
+            },
+            {
+              "text": "A)",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1847.0,
+                "y": 824.0,
+                "width": 26.0,
+                "height": 43.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_19",
+          "text": "a",
+          "bbox": {
+            "x": 14.0,
+            "y": 865.0,
+            "width": 110.0,
+            "height": 18.0
+          },
+          "confidence": 0.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "a",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 14.0,
+                "y": 865.0,
+                "width": 110.0,
+                "height": 18.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_20",
+          "text": "= — OWNERSHIP DETAILS",
+          "bbox": {
+            "x": 1.0,
+            "y": 900.0,
+            "width": 1241.0,
+            "height": 49.0
+          },
+          "confidence": 85.75,
+          "word_count": 4,
+          "words": [
+            {
+              "text": "=",
+              "confidence": 81.0,
+              "bbox": {
+                "x": 1.0,
+                "y": 920.0,
+                "width": 25.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "—",
+              "confidence": 70.0,
+              "bbox": {
+                "x": 582.0,
+                "y": 918.0,
+                "width": 72.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "OWNERSHIP",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 963.0,
+                "y": 901.0,
+                "width": 161.0,
+                "height": 28.0
+              }
+            },
+            {
+              "text": "DETAILS",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1133.0,
+                "y": 900.0,
+                "width": 109.0,
+                "height": 26.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_21",
+          "text": "ie — - Se es. ~~",
+          "bbox": {
+            "x": 11.0,
+            "y": 939.0,
+            "width": 739.0,
+            "height": 27.0
+          },
+          "confidence": 28.83,
+          "word_count": 6,
+          "words": [
+            {
+              "text": "ie",
+              "confidence": 41.0,
+              "bbox": {
+                "x": 11.0,
+                "y": 948.0,
+                "width": 41.0,
+                "height": 18.0
+              }
+            },
+            {
+              "text": "—",
+              "confidence": 81.0,
+              "bbox": {
+                "x": 91.0,
+                "y": 959.0,
+                "width": 19.0,
+                "height": 4.0
+              }
+            },
+            {
+              "text": "-",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 174.0,
+                "y": 959.0,
+                "width": 4.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "Se",
+              "confidence": 16.0,
+              "bbox": {
+                "x": 222.0,
+                "y": 945.0,
+                "width": 127.0,
+                "height": 18.0
+              }
+            },
+            {
+              "text": "es.",
+              "confidence": 35.0,
+              "bbox": {
+                "x": 635.0,
+                "y": 939.0,
+                "width": 41.0,
+                "height": 15.0
+              }
+            },
+            {
+              "text": "~~",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 719.0,
+                "y": 943.0,
+                "width": 31.0,
+                "height": 7.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_22",
+          "text": "> Se = s - jo [aia | Arthur J. Sterling 5 1/1 (Full) | Ancestral Property, Bhumidhar (Permanent)",
+          "bbox": {
+            "x": 61.0,
+            "y": 978.0,
+            "width": 1927.0,
+            "height": 47.0
+          },
+          "confidence": 57.74,
+          "word_count": 19,
+          "words": [
+            {
+              "text": ">",
+              "confidence": 7.0,
+              "bbox": {
+                "x": 61.0,
+                "y": 995.0,
+                "width": 34.0,
+                "height": 14.0
+              }
+            },
+            {
+              "text": "Se",
+              "confidence": 31.0,
+              "bbox": {
+                "x": 199.0,
+                "y": 989.0,
+                "width": 84.0,
+                "height": 19.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 20.0,
+              "bbox": {
+                "x": 558.0,
+                "y": 989.0,
+                "width": 3.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "s",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 607.0,
+                "y": 999.0,
+                "width": 3.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "-",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 651.0,
+                "y": 990.0,
+                "width": 3.0,
+                "height": 1.0
+              }
+            },
+            {
+              "text": "jo",
+              "confidence": 19.0,
+              "bbox": {
+                "x": 714.0,
+                "y": 978.0,
+                "width": 13.0,
+                "height": 30.0
+              }
+            },
+            {
+              "text": "[aia",
+              "confidence": 37.0,
+              "bbox": {
+                "x": 715.0,
+                "y": 1004.0,
+                "width": 23.0,
+                "height": 12.0
+              }
+            },
+            {
+              "text": "|",
+              "confidence": 42.0,
+              "bbox": {
+                "x": 741.0,
+                "y": 988.0,
+                "width": 13.0,
+                "height": 11.0
+              }
+            },
+            {
+              "text": "Arthur",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1102.0,
+                "y": 996.0,
+                "width": 66.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "J.",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1175.0,
+                "y": 996.0,
+                "width": 17.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "Sterling",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1201.0,
+                "y": 994.0,
+                "width": 81.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "5",
+              "confidence": 69.0,
+              "bbox": {
+                "x": 1251.0,
+                "y": 994.0,
+                "width": 3.0,
+                "height": 4.0
+              }
+            },
+            {
+              "text": "1/1",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1430.0,
+                "y": 994.0,
+                "width": 31.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "(Full)",
+              "confidence": 54.0,
+              "bbox": {
+                "x": 1471.0,
+                "y": 992.0,
+                "width": 52.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "|",
+              "confidence": 61.0,
+              "bbox": {
+                "x": 1541.0,
+                "y": 983.0,
+                "width": 8.0,
+                "height": 42.0
+              }
+            },
+            {
+              "text": "Ancestral",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1556.0,
+                "y": 991.0,
+                "width": 93.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "Property,",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1657.0,
+                "y": 992.0,
+                "width": 88.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "Bhumidhar",
+              "confidence": 92.0,
+              "bbox": {
+                "x": 1752.0,
+                "y": 990.0,
+                "width": 107.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "(Permanent)",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1866.0,
+                "y": 987.0,
+                "width": 122.0,
+                "height": 30.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_23",
+          "text": "= Aes >",
+          "bbox": {
+            "x": 4.0,
+            "y": 998.0,
+            "width": 614.0,
+            "height": 46.0
+          },
+          "confidence": 42.0,
+          "word_count": 3,
+          "words": [
+            {
+              "text": "=",
+              "confidence": 35.0,
+              "bbox": {
+                "x": 4.0,
+                "y": 1018.0,
+                "width": 60.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "Aes",
+              "confidence": 33.0,
+              "bbox": {
+                "x": 75.0,
+                "y": 998.0,
+                "width": 113.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": ">",
+              "confidence": 58.0,
+              "bbox": {
+                "x": 591.0,
+                "y": 1006.0,
+                "width": 27.0,
+                "height": 22.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_24",
+          "text": "EE —— a 2 MUTATION RECORDS",
+          "bbox": {
+            "x": 0.0,
+            "y": 1044.0,
+            "width": 1248.0,
+            "height": 66.0
+          },
+          "confidence": 49.83,
+          "word_count": 6,
+          "words": [
+            {
+              "text": "EE",
+              "confidence": 29.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1044.0,
+                "width": 326.0,
+                "height": 61.0
+              }
+            },
+            {
+              "text": "——",
+              "confidence": 5.0,
+              "bbox": {
+                "x": 282.0,
+                "y": 1065.0,
+                "width": 91.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "a",
+              "confidence": 23.0,
+              "bbox": {
+                "x": 601.0,
+                "y": 1064.0,
+                "width": 54.0,
+                "height": 37.0
+              }
+            },
+            {
+              "text": "2",
+              "confidence": 52.0,
+              "bbox": {
+                "x": 692.0,
+                "y": 1060.0,
+                "width": 44.0,
+                "height": 45.0
+              }
+            },
+            {
+              "text": "MUTATION",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 968.0,
+                "y": 1060.0,
+                "width": 143.0,
+                "height": 28.0
+              }
+            },
+            {
+              "text": "RECORDS",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1120.0,
+                "y": 1059.0,
+                "width": 128.0,
+                "height": 27.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_25",
+          "text": "See a \\ mes oy Latest Mutation Entry ‘ No. 456",
+          "bbox": {
+            "x": 0.0,
+            "y": 1090.0,
+            "width": 1302.0,
+            "height": 56.0
+          },
+          "confidence": 60.45,
+          "word_count": 11,
+          "words": [
+            {
+              "text": "See",
+              "confidence": 33.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1090.0,
+                "width": 342.0,
+                "height": 56.0
+              }
+            },
+            {
+              "text": "a",
+              "confidence": 35.0,
+              "bbox": {
+                "x": 101.0,
+                "y": 1105.0,
+                "width": 306.0,
+                "height": 41.0
+              }
+            },
+            {
+              "text": "\\",
+              "confidence": 54.0,
+              "bbox": {
+                "x": 442.0,
+                "y": 1108.0,
+                "width": 23.0,
+                "height": 19.0
+              }
+            },
+            {
+              "text": "mes",
+              "confidence": 27.0,
+              "bbox": {
+                "x": 585.0,
+                "y": 1104.0,
+                "width": 47.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "oy",
+              "confidence": 42.0,
+              "bbox": {
+                "x": 672.0,
+                "y": 1103.0,
+                "width": 40.0,
+                "height": 31.0
+              }
+            },
+            {
+              "text": "Latest",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 974.0,
+                "y": 1110.0,
+                "width": 68.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "Mutation",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1050.0,
+                "y": 1108.0,
+                "width": 96.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "Entry",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1154.0,
+                "y": 1107.0,
+                "width": 35.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "‘",
+              "confidence": 1.0,
+              "bbox": {
+                "x": 1190.0,
+                "y": 1112.0,
+                "width": 20.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "No.",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1218.0,
+                "y": 1107.0,
+                "width": 35.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "456",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1261.0,
+                "y": 1106.0,
+                "width": 41.0,
+                "height": 22.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_26",
+          "text": "AE oe = y Date: 12/03/2018",
+          "bbox": {
+            "x": 0.0,
+            "y": 1120.0,
+            "width": 1170.0,
+            "height": 59.0
+          },
+          "confidence": 46.67,
+          "word_count": 6,
+          "words": [
+            {
+              "text": "AE",
+              "confidence": 14.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1120.0,
+                "width": 112.0,
+                "height": 59.0
+              }
+            },
+            {
+              "text": "oe",
+              "confidence": 15.0,
+              "bbox": {
+                "x": 128.0,
+                "y": 1139.0,
+                "width": 207.0,
+                "height": 37.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 36.0,
+              "bbox": {
+                "x": 366.0,
+                "y": 1156.0,
+                "width": 15.0,
+                "height": 3.0
+              }
+            },
+            {
+              "text": "y",
+              "confidence": 23.0,
+              "bbox": {
+                "x": 658.0,
+                "y": 1150.0,
+                "width": 3.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "Date:",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 975.0,
+                "y": 1137.0,
+                "width": 56.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "12/03/2018",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1043.0,
+                "y": 1135.0,
+                "width": 127.0,
+                "height": 25.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_27",
+          "text": "ae Type: Inheritance (from Robert L. Sterling).",
+          "bbox": {
+            "x": 230.0,
+            "y": 1156.0,
+            "width": 1229.0,
+            "height": 47.0
+          },
+          "confidence": 83.86,
+          "word_count": 7,
+          "words": [
+            {
+              "text": "ae",
+              "confidence": 26.0,
+              "bbox": {
+                "x": 230.0,
+                "y": 1170.0,
+                "width": 139.0,
+                "height": 33.0
+              }
+            },
+            {
+              "text": "Type:",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 974.0,
+                "y": 1165.0,
+                "width": 62.0,
+                "height": 27.0
+              }
+            },
+            {
+              "text": "Inheritance",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1044.0,
+                "y": 1162.0,
+                "width": 127.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "(from",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1179.0,
+                "y": 1160.0,
+                "width": 60.0,
+                "height": 30.0
+              }
+            },
+            {
+              "text": "Robert",
+              "confidence": 92.0,
+              "bbox": {
+                "x": 1247.0,
+                "y": 1159.0,
+                "width": 75.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "L.",
+              "confidence": 87.0,
+              "bbox": {
+                "x": 1329.0,
+                "y": 1159.0,
+                "width": 19.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "Sterling).",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1356.0,
+                "y": 1156.0,
+                "width": 103.0,
+                "height": 29.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_28",
+          "text": "aie",
+          "bbox": {
+            "x": 0.0,
+            "y": 1173.0,
+            "width": 177.0,
+            "height": 50.0
+          },
+          "confidence": 34.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "aie",
+              "confidence": 34.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1173.0,
+                "width": 177.0,
+                "height": 50.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_29",
+          "text": "REGISTRATION INFORMATION",
+          "bbox": {
+            "x": 973.0,
+            "y": 1220.0,
+            "width": 401.0,
+            "height": 30.0
+          },
+          "confidence": 96.0,
+          "word_count": 2,
+          "words": [
+            {
+              "text": "REGISTRATION",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 973.0,
+                "y": 1223.0,
+                "width": 201.0,
+                "height": 27.0
+              }
+            },
+            {
+              "text": "INFORMATION",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1183.0,
+                "y": 1220.0,
+                "width": 191.0,
+                "height": 28.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_30",
+          "text": "ei ees LES Mica =",
+          "bbox": {
+            "x": 7.0,
+            "y": 1237.0,
+            "width": 2220.0,
+            "height": 54.0
+          },
+          "confidence": 33.6,
+          "word_count": 5,
+          "words": [
+            {
+              "text": "ei",
+              "confidence": 16.0,
+              "bbox": {
+                "x": 7.0,
+                "y": 1255.0,
+                "width": 17.0,
+                "height": 10.0
+              }
+            },
+            {
+              "text": "ees",
+              "confidence": 31.0,
+              "bbox": {
+                "x": 40.0,
+                "y": 1237.0,
+                "width": 253.0,
+                "height": 54.0
+              }
+            },
+            {
+              "text": "LES",
+              "confidence": 32.0,
+              "bbox": {
+                "x": 1495.0,
+                "y": 1239.0,
+                "width": 118.0,
+                "height": 37.0
+              }
+            },
+            {
+              "text": "Mica",
+              "confidence": 10.0,
+              "bbox": {
+                "x": 1737.0,
+                "y": 1239.0,
+                "width": 174.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 79.0,
+              "bbox": {
+                "x": 2194.0,
+                "y": 1243.0,
+                "width": 33.0,
+                "height": 17.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_31",
+          "text": "SS : 7 3 REGISTERED DOCUMENT No. 789/2018|] 6 N",
+          "bbox": {
+            "x": 0.0,
+            "y": 1259.0,
+            "width": 1636.0,
+            "height": 72.0
+          },
+          "confidence": 58.0,
+          "word_count": 10,
+          "words": [
+            {
+              "text": "SS",
+              "confidence": 52.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1268.0,
+                "width": 260.0,
+                "height": 63.0
+              }
+            },
+            {
+              "text": ":",
+              "confidence": 79.0,
+              "bbox": {
+                "x": 641.0,
+                "y": 1300.0,
+                "width": 3.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "7",
+              "confidence": 53.0,
+              "bbox": {
+                "x": 760.0,
+                "y": 1278.0,
+                "width": 2.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "3",
+              "confidence": 48.0,
+              "bbox": {
+                "x": 861.0,
+                "y": 1289.0,
+                "width": 17.0,
+                "height": 18.0
+              }
+            },
+            {
+              "text": "REGISTERED",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 986.0,
+                "y": 1277.0,
+                "width": 135.0,
+                "height": 24.0
+              }
+            },
+            {
+              "text": "DOCUMENT",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1128.0,
+                "y": 1275.0,
+                "width": 163.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "No.",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1255.0,
+                "y": 1259.0,
+                "width": 34.0,
+                "height": 49.0
+              }
+            },
+            {
+              "text": "789/2018|]",
+              "confidence": 63.0,
+              "bbox": {
+                "x": 1298.0,
+                "y": 1273.0,
+                "width": 96.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "6",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 1464.0,
+                "y": 1263.0,
+                "width": 38.0,
+                "height": 41.0
+              }
+            },
+            {
+              "text": "N",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 1603.0,
+                "y": 1269.0,
+                "width": 33.0,
+                "height": 35.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_32",
+          "text": "ee Sub-Registtar Office [District] &/ revenue \\% Sgnilahe-",
+          "bbox": {
+            "x": 695.0,
+            "y": 1278.0,
+            "width": 1233.0,
+            "height": 70.0
+          },
+          "confidence": 53.88,
+          "word_count": 8,
+          "words": [
+            {
+              "text": "ee",
+              "confidence": 41.0,
+              "bbox": {
+                "x": 695.0,
+                "y": 1317.0,
+                "width": 96.0,
+                "height": 17.0
+              }
+            },
+            {
+              "text": "Sub-Registtar",
+              "confidence": 87.0,
+              "bbox": {
+                "x": 986.0,
+                "y": 1296.0,
+                "width": 147.0,
+                "height": 41.0
+              }
+            },
+            {
+              "text": "Office",
+              "confidence": 94.0,
+              "bbox": {
+                "x": 1142.0,
+                "y": 1296.0,
+                "width": 59.0,
+                "height": 41.0
+              }
+            },
+            {
+              "text": "[District]",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1211.0,
+                "y": 1296.0,
+                "width": 93.0,
+                "height": 41.0
+              }
+            },
+            {
+              "text": "&/",
+              "confidence": 67.0,
+              "bbox": {
+                "x": 1456.0,
+                "y": 1304.0,
+                "width": 23.0,
+                "height": 29.0
+              }
+            },
+            {
+              "text": "revenue",
+              "confidence": 42.0,
+              "bbox": {
+                "x": 1508.0,
+                "y": 1308.0,
+                "width": 81.0,
+                "height": 19.0
+              }
+            },
+            {
+              "text": "\\%",
+              "confidence": 5.0,
+              "bbox": {
+                "x": 1619.0,
+                "y": 1301.0,
+                "width": 22.0,
+                "height": 26.0
+              }
+            },
+            {
+              "text": "Sgnilahe-",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 1758.0,
+                "y": 1278.0,
+                "width": 170.0,
+                "height": 70.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_33",
+          "text": "Se ee ey Bee = —— ey, Date: 15/03/2018. (DEPARTMENT } 4: Revenue Officer / Tehsiidar",
+          "bbox": {
+            "x": 0.0,
+            "y": 1318.0,
+            "width": 1965.0,
+            "height": 63.0
+          },
+          "confidence": 51.06,
+          "word_count": 16,
+          "words": [
+            {
+              "text": "Se",
+              "confidence": 45.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1318.0,
+                "width": 231.0,
+                "height": 32.0
+              }
+            },
+            {
+              "text": "ee",
+              "confidence": 25.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1344.0,
+                "width": 96.0,
+                "height": 34.0
+              }
+            },
+            {
+              "text": "ey",
+              "confidence": 27.0,
+              "bbox": {
+                "x": 118.0,
+                "y": 1345.0,
+                "width": 97.0,
+                "height": 36.0
+              }
+            },
+            {
+              "text": "Bee",
+              "confidence": 8.0,
+              "bbox": {
+                "x": 589.0,
+                "y": 1332.0,
+                "width": 68.0,
+                "height": 6.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 11.0,
+              "bbox": {
+                "x": 596.0,
+                "y": 1340.0,
+                "width": 52.0,
+                "height": 18.0
+              }
+            },
+            {
+              "text": "——",
+              "confidence": 43.0,
+              "bbox": {
+                "x": 753.0,
+                "y": 1356.0,
+                "width": 16.0,
+                "height": 9.0
+              }
+            },
+            {
+              "text": "ey,",
+              "confidence": 37.0,
+              "bbox": {
+                "x": 817.0,
+                "y": 1337.0,
+                "width": 36.0,
+                "height": 14.0
+              }
+            },
+            {
+              "text": "Date:",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 988.0,
+                "y": 1335.0,
+                "width": 54.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "15/03/2018.",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1054.0,
+                "y": 1332.0,
+                "width": 128.0,
+                "height": 25.0
+              }
+            },
+            {
+              "text": "(DEPARTMENT",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 1489.0,
+                "y": 1333.0,
+                "width": 120.0,
+                "height": 19.0
+              }
+            },
+            {
+              "text": "}",
+              "confidence": 54.0,
+              "bbox": {
+                "x": 1609.0,
+                "y": 1324.0,
+                "width": 8.0,
+                "height": 39.0
+              }
+            },
+            {
+              "text": "4:",
+              "confidence": 46.0,
+              "bbox": {
+                "x": 1625.0,
+                "y": 1340.0,
+                "width": 13.0,
+                "height": 14.0
+              }
+            },
+            {
+              "text": "Revenue",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1711.0,
+                "y": 1345.0,
+                "width": 81.0,
+                "height": 21.0
+              }
+            },
+            {
+              "text": "Officer",
+              "confidence": 93.0,
+              "bbox": {
+                "x": 1798.0,
+                "y": 1343.0,
+                "width": 63.0,
+                "height": 22.0
+              }
+            },
+            {
+              "text": "/",
+              "confidence": 92.0,
+              "bbox": {
+                "x": 1867.0,
+                "y": 1344.0,
+                "width": 7.0,
+                "height": 21.0
+              }
+            },
+            {
+              "text": "Tehsiidar",
+              "confidence": 49.0,
+              "bbox": {
+                "x": 1879.0,
+                "y": 1342.0,
+                "width": 86.0,
+                "height": 23.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_34",
+          "text": "Ries wy, x ay . \" = Date: ea 20/10/2023.",
+          "bbox": {
+            "x": 0.0,
+            "y": 1370.0,
+            "width": 1883.0,
+            "height": 43.0
+          },
+          "confidence": 43.0,
+          "word_count": 10,
+          "words": [
+            {
+              "text": "Ries",
+              "confidence": 9.0,
+              "bbox": {
+                "x": 0.0,
+                "y": 1379.0,
+                "width": 25.0,
+                "height": 14.0
+              }
+            },
+            {
+              "text": "wy,",
+              "confidence": 46.0,
+              "bbox": {
+                "x": 17.0,
+                "y": 1371.0,
+                "width": 184.0,
+                "height": 42.0
+              }
+            },
+            {
+              "text": "x",
+              "confidence": 51.0,
+              "bbox": {
+                "x": 94.0,
+                "y": 1380.0,
+                "width": 7.0,
+                "height": 3.0
+              }
+            },
+            {
+              "text": "ay",
+              "confidence": 45.0,
+              "bbox": {
+                "x": 145.0,
+                "y": 1379.0,
+                "width": 30.0,
+                "height": 4.0
+              }
+            },
+            {
+              "text": ".",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 613.0,
+                "y": 1378.0,
+                "width": 3.0,
+                "height": 1.0
+              }
+            },
+            {
+              "text": "\"",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 762.0,
+                "y": 1370.0,
+                "width": 5.0,
+                "height": 3.0
+              }
+            },
+            {
+              "text": "=",
+              "confidence": 52.0,
+              "bbox": {
+                "x": 865.0,
+                "y": 1375.0,
+                "width": 3.0,
+                "height": 2.0
+              }
+            },
+            {
+              "text": "Date:",
+              "confidence": 96.0,
+              "bbox": {
+                "x": 1711.0,
+                "y": 1373.0,
+                "width": 66.0,
+                "height": 21.0
+              }
+            },
+            {
+              "text": "ea",
+              "confidence": 36.0,
+              "bbox": {
+                "x": 1724.0,
+                "y": 1371.0,
+                "width": 106.0,
+                "height": 23.0
+              }
+            },
+            {
+              "text": "20/10/2023.",
+              "confidence": 95.0,
+              "bbox": {
+                "x": 1799.0,
+                "y": 1370.0,
+                "width": 84.0,
+                "height": 23.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_35",
+          "text": "Cre EY Se",
+          "bbox": {
+            "x": 1479.0,
+            "y": 1378.0,
+            "width": 1200.0,
+            "height": 47.0
+          },
+          "confidence": 48.0,
+          "word_count": 3,
+          "words": [
+            {
+              "text": "Cre",
+              "confidence": 40.0,
+              "bbox": {
+                "x": 1479.0,
+                "y": 1381.0,
+                "width": 74.0,
+                "height": 44.0
+              }
+            },
+            {
+              "text": "EY",
+              "confidence": 45.0,
+              "bbox": {
+                "x": 1583.0,
+                "y": 1378.0,
+                "width": 43.0,
+                "height": 47.0
+              }
+            },
+            {
+              "text": "Se",
+              "confidence": 59.0,
+              "bbox": {
+                "x": 2602.0,
+                "y": 1385.0,
+                "width": 77.0,
+                "height": 29.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_36",
+          "text": "—",
+          "bbox": {
+            "x": 36.0,
+            "y": 1417.0,
+            "width": 59.0,
+            "height": 28.0
+          },
+          "confidence": 0.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "—",
+              "confidence": 0.0,
+              "bbox": {
+                "x": 36.0,
+                "y": 1417.0,
+                "width": 59.0,
+                "height": 28.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_37",
+          "text": "Wim",
+          "bbox": {
+            "x": 609.0,
+            "y": 1523.0,
+            "width": 94.0,
+            "height": 15.0
+          },
+          "confidence": 35.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "Wim",
+              "confidence": 35.0,
+              "bbox": {
+                "x": 609.0,
+                "y": 1523.0,
+                "width": 94.0,
+                "height": 15.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_38",
+          "text": "vii",
+          "bbox": {
+            "x": 7.0,
+            "y": 1501.0,
+            "width": 95.0,
+            "height": 99.0
+          },
+          "confidence": 17.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "vii",
+              "confidence": 17.0,
+              "bbox": {
+                "x": 7.0,
+                "y": 1501.0,
+                "width": 95.0,
+                "height": 99.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_39",
+          "text": "i",
+          "bbox": {
+            "x": 98.0,
+            "y": 1563.0,
+            "width": 1.0,
+            "height": 17.0
+          },
+          "confidence": 53.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "i",
+              "confidence": 53.0,
+              "bbox": {
+                "x": 98.0,
+                "y": 1563.0,
+                "width": 1.0,
+                "height": 17.0
+              }
+            }
+          ]
+        },
+        {
+          "line_id": "line_40",
+          "text": "i",
+          "bbox": {
+            "x": 97.0,
+            "y": 1581.0,
+            "width": 1.0,
+            "height": 17.0
+          },
+          "confidence": 64.0,
+          "word_count": 1,
+          "words": [
+            {
+              "text": "i",
+              "confidence": 64.0,
+              "bbox": {
+                "x": 97.0,
+                "y": 1581.0,
+                "width": 1.0,
+                "height": 17.0
+              }
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "block_id": "block_1",
+          "text": "= ee",
+          "bbox": {
+            "x": 0.0,
+            "y": 28.0,
+            "width": 748.0,
+            "height": 69.0
+          },
+          "confidence": 23.5,
+          "line_count": 1,
+          "line_ids": [
+            "line_1"
+          ]
+        },
+        {
+          "block_id": "block_2",
+          "text": "sp Government of [State/Country] - Department of Revenue a\n; Se ee\nSS See — LANDOWNER DETAILS\nSESS\n<a Z\nSS ee Late Robert L. Sterling\neee =~ 123 Maple Lane, Green Valley\nSSS\nSe == © FSS : LAND IDENTIFICATION\n— gS ee ee aS GREEN VALLEY Survey Number / 54/2\nSS ase a Khssra Number\nNORTHERN DISTRICT eee\nae a Sata\nee ee\n= LAND CHARACTERISTICS :\nSS = Plot Area 10.5 ACRES Land Classification | IRRIGATED AGRICULTURAL LANO\nSs = 4 (4.25 Hectares) (Category A)\na\n= — OWNERSHIP DETAILS\nie — - Se es. ~~\n> Se = s - jo [aia | Arthur J. Sterling 5 1/1 (Full) | Ancestral Property, Bhumidhar (Permanent)\n= Aes >\nEE —— a 2 MUTATION RECORDS\nSee a \\ mes oy Latest Mutation Entry ‘ No. 456\nAE oe = y Date: 12/03/2018\nae Type: Inheritance (from Robert L. Sterling).\naie\nREGISTRATION INFORMATION\nei ees LES Mica =\nSS : 7 3 REGISTERED DOCUMENT No. 789/2018|] 6 N\nee Sub-Registtar Office [District] &/ revenue \\% Sgnilahe-\nSe ee ey Bee = —— ey, Date: 15/03/2018. (DEPARTMENT } 4: Revenue Officer / Tehsiidar\nRies wy, x ay . \" = Date: ea 20/10/2023.\nCre EY Se\n—\nvii\nWim\ni\ni",
+          "bbox": {
+            "x": 0.0,
+            "y": 294.0,
+            "width": 2679.0,
+            "height": 1306.0
+          },
+          "confidence": 49.37,
+          "line_count": 39,
+          "line_ids": [
+            "line_2",
+            "line_3",
+            "line_4",
+            "line_5",
+            "line_6",
+            "line_7",
+            "line_8",
+            "line_9",
+            "line_10",
+            "line_11",
+            "line_12",
+            "line_13",
+            "line_14",
+            "line_16",
+            "line_15",
+            "line_17",
+            "line_18",
+            "line_19",
+            "line_20",
+            "line_21",
+            "line_22",
+            "line_23",
+            "line_24",
+            "line_25",
+            "line_26",
+            "line_27",
+            "line_28",
+            "line_29",
+            "line_30",
+            "line_31",
+            "line_32",
+            "line_33",
+            "line_34",
+            "line_35",
+            "line_36",
+            "line_38",
+            "line_37",
+            "line_39",
+            "line_40"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "section_id": "section_1",
+          "name": "LANDOWNER DETAILS",
+          "line_id": "line_4",
+          "bbox": {
+            "x": 43.0,
+            "y": 364.0,
+            "width": 1198.0,
+            "height": 49.0
+          },
+          "confidence": 61.2,
+          "line_index": 3
+        },
+        {
+          "section_id": "section_2",
+          "name": "LAND IDENTIFICATION",
+          "line_id": "line_10",
+          "bbox": {
+            "x": 23.0,
+            "y": 566.0,
+            "width": 1217.0,
+            "height": 49.0
+          },
+          "confidence": 43.71,
+          "line_index": 9
+        },
+        {
+          "section_id": "section_3",
+          "name": "LAND CHARACTERISTICS",
+          "line_id": "line_15",
+          "bbox": {
+            "x": 599.0,
+            "y": 753.0,
+            "width": 1778.0,
+            "height": 37.0
+          },
+          "confidence": 66.5,
+          "line_index": 14
+        },
+        {
+          "section_id": "section_4",
+          "name": "OWNERSHIP DETAILS",
+          "line_id": "line_20",
+          "bbox": {
+            "x": 1.0,
+            "y": 900.0,
+            "width": 1241.0,
+            "height": 49.0
+          },
+          "confidence": 85.75,
+          "line_index": 19
+        },
+        {
+          "section_id": "section_5",
+          "name": "MUTATION RECORDS",
+          "line_id": "line_24",
+          "bbox": {
+            "x": 0.0,
+            "y": 1044.0,
+            "width": 1248.0,
+            "height": 66.0
+          },
+          "confidence": 49.83,
+          "line_index": 23
+        },
+        {
+          "section_id": "section_6",
+          "name": "REGISTRATION INFORMATION",
+          "line_id": "line_29",
+          "bbox": {
+            "x": 973.0,
+            "y": 1220.0,
+            "width": 401.0,
+            "height": 30.0
+          },
+          "confidence": 96.0,
+          "line_index": 28
+        }
+      ],
+      "relationships": [
+        {
+          "relationship_id": "rel_1",
+          "relation": "label_value",
+          "spatial_relation": "same_line",
+          "label": "Survey Number",
+          "label_text_raw": "Survey Number",
+          "value": "/ 54/2",
+          "source_line_id": "line_11",
+          "target_line_id": null,
+          "confidence": 63.27
+        },
+        {
+          "relationship_id": "rel_2",
+          "relation": "label_value",
+          "spatial_relation": null,
+          "label": "Khasra Number",
+          "label_text_raw": "Khssra Number",
+          "value": null,
+          "source_line_id": "line_12",
+          "target_line_id": null,
+          "confidence": 53.2
+        },
+        {
+          "relationship_id": "rel_3",
+          "relation": "label_value",
+          "spatial_relation": "same_line",
+          "label": "District",
+          "label_text_raw": "DISTRICT",
+          "value": "eee",
+          "source_line_id": "line_13",
+          "target_line_id": null,
+          "confidence": 63.67
+        },
+        {
+          "relationship_id": "rel_4",
+          "relation": "label_value",
+          "spatial_relation": "same_line",
+          "label": "Plot Area",
+          "label_text_raw": "Plot Area",
+          "value": "10.5 ACRES",
+          "source_line_id": "line_17",
+          "target_line_id": null,
+          "confidence": 87.58
+        },
+        {
+          "relationship_id": "rel_5",
+          "relation": "label_value",
+          "spatial_relation": "same_line",
+          "label": "Land Classification",
+          "label_text_raw": "Land Classification",
+          "value": "| IRRIGATED AGRICULTURAL LANO",
+          "source_line_id": "line_17",
+          "target_line_id": null,
+          "confidence": 87.58
+        },
+        {
+          "relationship_id": "rel_6",
+          "relation": "label_value",
+          "spatial_relation": "same_line",
+          "label": "District",
+          "label_text_raw": "District",
+          "value": "] &/ revenue \\% Sgnilahe-",
+          "source_line_id": "line_32",
+          "target_line_id": null,
+          "confidence": 53.88
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "bbox": {
+            "x": 0.0,
+            "y": 294.0,
+            "width": 2679.0,
+            "height": 1306.0
+          },
+          "block_id": "block_2",
+          "column_count": 10,
+          "rows": [
+            {
+              "row_id": "block_2_line_2",
+              "line_id": "line_2",
+              "cells": [
+                {
+                  "column_index": 2,
+                  "text": "sp"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Government"
+                },
+                {
+                  "column_index": 4,
+                  "text": "of [State/Country] - Department"
+                },
+                {
+                  "column_index": 5,
+                  "text": "of Revenue"
+                },
+                {
+                  "column_index": 7,
+                  "text": "a"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_3",
+              "line_id": "line_3",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": ";"
+                },
+                {
+                  "column_index": 1,
+                  "text": "Se ee"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_4",
+              "line_id": "line_4",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "SS"
+                },
+                {
+                  "column_index": 1,
+                  "text": "See"
+                },
+                {
+                  "column_index": 2,
+                  "text": "—"
+                },
+                {
+                  "column_index": 3,
+                  "text": "LANDOWNER DETAILS"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_5",
+              "line_id": "line_5",
+              "cells": [
+                {
+                  "column_index": 1,
+                  "text": "SESS"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_6",
+              "line_id": "line_6",
+              "cells": [
+                {
+                  "column_index": 7,
+                  "text": "<a"
+                },
+                {
+                  "column_index": 8,
+                  "text": "Z"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_7",
+              "line_id": "line_7",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "SS"
+                },
+                {
+                  "column_index": 1,
+                  "text": "ee"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Late Robert"
+                },
+                {
+                  "column_index": 4,
+                  "text": "L. Sterling"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_8",
+              "line_id": "line_8",
+              "cells": [
+                {
+                  "column_index": 1,
+                  "text": "eee"
+                },
+                {
+                  "column_index": 2,
+                  "text": "=~"
+                },
+                {
+                  "column_index": 3,
+                  "text": "123 Maple"
+                },
+                {
+                  "column_index": 4,
+                  "text": "Lane, Green Valley"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_9",
+              "line_id": "line_9",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "SSS"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_10",
+              "line_id": "line_10",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "Se"
+                },
+                {
+                  "column_index": 1,
+                  "text": "=="
+                },
+                {
+                  "column_index": 2,
+                  "text": "© FSS"
+                },
+                {
+                  "column_index": 3,
+                  "text": ": LAND IDENTIFICATION"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_11",
+              "line_id": "line_11",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "— gS"
+                },
+                {
+                  "column_index": 1,
+                  "text": "ee"
+                },
+                {
+                  "column_index": 2,
+                  "text": "ee aS"
+                },
+                {
+                  "column_index": 3,
+                  "text": "GREEN VALLEY"
+                },
+                {
+                  "column_index": 4,
+                  "text": "Survey Number /"
+                },
+                {
+                  "column_index": 5,
+                  "text": "54/2"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_12",
+              "line_id": "line_12",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "SS ase a"
+                },
+                {
+                  "column_index": 4,
+                  "text": "Khssra Number"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_13",
+              "line_id": "line_13",
+              "cells": [
+                {
+                  "column_index": 3,
+                  "text": "NORTHERN"
+                },
+                {
+                  "column_index": 4,
+                  "text": "DISTRICT eee"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_14",
+              "line_id": "line_14",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "ae"
+                },
+                {
+                  "column_index": 1,
+                  "text": "a"
+                },
+                {
+                  "column_index": 4,
+                  "text": "Sata"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_16",
+              "line_id": "line_16",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "ee"
+                },
+                {
+                  "column_index": 1,
+                  "text": "ee"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_15",
+              "line_id": "line_15",
+              "cells": [
+                {
+                  "column_index": 2,
+                  "text": "="
+                },
+                {
+                  "column_index": 3,
+                  "text": "LAND CHARACTERISTICS"
+                },
+                {
+                  "column_index": 8,
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_17",
+              "line_id": "line_17",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "SS"
+                },
+                {
+                  "column_index": 2,
+                  "text": "="
+                },
+                {
+                  "column_index": 3,
+                  "text": "Plot Area 10.5"
+                },
+                {
+                  "column_index": 4,
+                  "text": "ACRES Land Classification | IRRIGATED"
+                },
+                {
+                  "column_index": 5,
+                  "text": "AGRICULTURAL"
+                },
+                {
+                  "column_index": 6,
+                  "text": "LANO"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_18",
+              "line_id": "line_18",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "Ss"
+                },
+                {
+                  "column_index": 1,
+                  "text": "= 4"
+                },
+                {
+                  "column_index": 3,
+                  "text": "(4.25"
+                },
+                {
+                  "column_index": 4,
+                  "text": "Hectares)"
+                },
+                {
+                  "column_index": 5,
+                  "text": "(Category A)"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_19",
+              "line_id": "line_19",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "a"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_20",
+              "line_id": "line_20",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "="
+                },
+                {
+                  "column_index": 2,
+                  "text": "—"
+                },
+                {
+                  "column_index": 3,
+                  "text": "OWNERSHIP DETAILS"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_21",
+              "line_id": "line_21",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "ie — - Se"
+                },
+                {
+                  "column_index": 2,
+                  "text": "es. ~~"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_22",
+              "line_id": "line_22",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "> Se"
+                },
+                {
+                  "column_index": 2,
+                  "text": "= s - jo [aia |"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Arthur J."
+                },
+                {
+                  "column_index": 4,
+                  "text": "Sterling 5 1/1 (Full) | Ancestral"
+                },
+                {
+                  "column_index": 5,
+                  "text": "Property, Bhumidhar (Permanent)"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_23",
+              "line_id": "line_23",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "= Aes"
+                },
+                {
+                  "column_index": 2,
+                  "text": ">"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_24",
+              "line_id": "line_24",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "EE"
+                },
+                {
+                  "column_index": 1,
+                  "text": "——"
+                },
+                {
+                  "column_index": 2,
+                  "text": "a 2"
+                },
+                {
+                  "column_index": 3,
+                  "text": "MUTATION RECORDS"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_25",
+              "line_id": "line_25",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "See a"
+                },
+                {
+                  "column_index": 1,
+                  "text": "\\"
+                },
+                {
+                  "column_index": 2,
+                  "text": "mes oy"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Latest Mutation Entry ‘"
+                },
+                {
+                  "column_index": 4,
+                  "text": "No. 456"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_26",
+              "line_id": "line_26",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "AE oe"
+                },
+                {
+                  "column_index": 1,
+                  "text": "="
+                },
+                {
+                  "column_index": 2,
+                  "text": "y"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Date: 12/03/2018"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_27",
+              "line_id": "line_27",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "ae"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Type: Inheritance (from"
+                },
+                {
+                  "column_index": 4,
+                  "text": "Robert L. Sterling)."
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_28",
+              "line_id": "line_28",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "aie"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_29",
+              "line_id": "line_29",
+              "cells": [
+                {
+                  "column_index": 3,
+                  "text": "REGISTRATION INFORMATION"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_30",
+              "line_id": "line_30",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "ei ees"
+                },
+                {
+                  "column_index": 4,
+                  "text": "LES"
+                },
+                {
+                  "column_index": 5,
+                  "text": "Mica"
+                },
+                {
+                  "column_index": 7,
+                  "text": "="
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_31",
+              "line_id": "line_31",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "SS"
+                },
+                {
+                  "column_index": 2,
+                  "text": ": 7"
+                },
+                {
+                  "column_index": 3,
+                  "text": "3 REGISTERED DOCUMENT"
+                },
+                {
+                  "column_index": 4,
+                  "text": "No. 789/2018|] 6 N"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_32",
+              "line_id": "line_32",
+              "cells": [
+                {
+                  "column_index": 2,
+                  "text": "ee"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Sub-Registtar Office"
+                },
+                {
+                  "column_index": 4,
+                  "text": "[District] &/ revenue \\%"
+                },
+                {
+                  "column_index": 5,
+                  "text": "Sgnilahe-"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_33",
+              "line_id": "line_33",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "Se ee ey"
+                },
+                {
+                  "column_index": 2,
+                  "text": "Bee = —— ey,"
+                },
+                {
+                  "column_index": 3,
+                  "text": "Date: 15/03/2018."
+                },
+                {
+                  "column_index": 4,
+                  "text": "(DEPARTMENT } 4:"
+                },
+                {
+                  "column_index": 5,
+                  "text": "Revenue Officer / Tehsiidar"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_34",
+              "line_id": "line_34",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "Ries wy, x ay"
+                },
+                {
+                  "column_index": 2,
+                  "text": ". \""
+                },
+                {
+                  "column_index": 3,
+                  "text": "="
+                },
+                {
+                  "column_index": 5,
+                  "text": "Date: ea 20/10/2023."
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_35",
+              "line_id": "line_35",
+              "cells": [
+                {
+                  "column_index": 4,
+                  "text": "Cre EY"
+                },
+                {
+                  "column_index": 9,
+                  "text": "Se"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_36",
+              "line_id": "line_36",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "—"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_38",
+              "line_id": "line_38",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "vii"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_37",
+              "line_id": "line_37",
+              "cells": [
+                {
+                  "column_index": 2,
+                  "text": "Wim"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_39",
+              "line_id": "line_39",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "i"
+                }
+              ]
+            },
+            {
+              "row_id": "block_2_line_40",
+              "line_id": "line_40",
+              "cells": [
+                {
+                  "column_index": 0,
+                  "text": "i"
+                }
+              ]
+            }
+          ],
+          "detection_method": "column_alignment_heuristic",
+          "validated": false
+        }
+      ],
+      "reading_order": [
+        "line_1",
+        "line_2",
+        "line_3",
+        "line_4",
+        "line_5",
+        "line_6",
+        "line_7",
+        "line_8",
+        "line_9",
+        "line_10",
+        "line_11",
+        "line_12",
+        "line_13",
+        "line_14",
+        "line_15",
+        "line_16",
+        "line_17",
+        "line_18",
+        "line_19",
+        "line_20",
+        "line_21",
+        "line_22",
+        "line_23",
+        "line_24",
+        "line_25",
+        "line_26",
+        "line_27",
+        "line_28",
+        "line_29",
+        "line_30",
+        "line_31",
+        "line_32",
+        "line_33",
+        "line_34",
+        "line_35",
+        "line_36",
+        "line_37",
+        "line_38",
+        "line_39",
+        "line_40"
+      ]
+    }
+  ],
+  "summary": {
+    "page_count": 1,
+    "line_count": 40,
+    "block_count": 2,
+    "section_count": 6,
+    "relationship_count": 6,
+    "table_count": 1
+  },
+  "document_id": "DOC-6548A9AB",
+  "document_text": "= ee\n\n[TABLE - structure detected heuristically, unvalidated]\nsp | Government | of [State/Country] - Department | of Revenue | a\n; | Se ee\nSS | See | — | LANDOWNER DETAILS\nSESS\n<a | Z\nSS | ee | Late Robert | L. Sterling\neee | =~ | 123 Maple | Lane, Green Valley\nSSS\nSe | == | © FSS | : LAND IDENTIFICATION\n— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2\nSS ase a | Khssra Number\nNORTHERN | DISTRICT eee\nae | a | Sata\nee | ee\n= | LAND CHARACTERISTICS | :\nSS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO\nSs | = 4 | (4.25 | Hectares) | (Category A)\na\n= | — | OWNERSHIP DETAILS\nie — - Se | es. ~~\n> Se | = s - jo [aia | | Arthur J. | Sterling 5 1/1 (Full) | Ancestral | Property, Bhumidhar (Permanent)\n= Aes | >\nEE | —— | a 2 | MUTATION RECORDS\nSee a | \\ | mes oy | Latest Mutation Entry ‘ | No. 456\nAE oe | = | y | Date: 12/03/2018\nae | Type: Inheritance (from | Robert L. Sterling).\naie\nREGISTRATION INFORMATION\nei ees | LES | Mica | =\nSS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N\nee | Sub-Registtar Office | [District] &/ revenue \\% | Sgnilahe-\nSe ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar\nRies wy, x ay | . \" | = | Date: ea 20/10/2023.\nCre EY | Se\n—\nvii\nWim\ni\ni",
+  "text_blocks": [
+    {
+      "type": "raw_line",
+      "text": "= ee",
+      "line_id": "line_1",
+      "section_id": null,
+      "section_name": null,
+      "source_line_ids": [
+        "line_1"
+      ],
+      "leading_blank": false,
+      "page_number": 1
+    },
+    {
+      "type": "table",
+      "text": "[TABLE - structure detected heuristically, unvalidated]\nsp | Government | of [State/Country] - Department | of Revenue | a\n; | Se ee\nSS | See | — | LANDOWNER DETAILS\nSESS\n<a | Z\nSS | ee | Late Robert | L. Sterling\neee | =~ | 123 Maple | Lane, Green Valley\nSSS\nSe | == | © FSS | : LAND IDENTIFICATION\n— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2\nSS ase a | Khssra Number\nNORTHERN | DISTRICT eee\nae | a | Sata\nee | ee\n= | LAND CHARACTERISTICS | :\nSS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO\nSs | = 4 | (4.25 | Hectares) | (Category A)\na\n= | — | OWNERSHIP DETAILS\nie — - Se | es. ~~\n> Se | = s - jo [aia | | Arthur J. | Sterling 5 1/1 (Full) | Ancestral | Property, Bhumidhar (Permanent)\n= Aes | >\nEE | —— | a 2 | MUTATION RECORDS\nSee a | \\ | mes oy | Latest Mutation Entry ‘ | No. 456\nAE oe | = | y | Date: 12/03/2018\nae | Type: Inheritance (from | Robert L. Sterling).\naie\nREGISTRATION INFORMATION\nei ees | LES | Mica | =\nSS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N\nee | Sub-Registtar Office | [District] &/ revenue \\% | Sgnilahe-\nSe ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar\nRies wy, x ay | . \" | = | Date: ea 20/10/2023.\nCre EY | Se\n—\nvii\nWim\ni\ni",
+      "table_id": "table_1",
+      "section_id": null,
+      "section_name": null,
+      "source_line_ids": [
+        "line_2",
+        "line_3",
+        "line_4",
+        "line_5",
+        "line_6",
+        "line_7",
+        "line_8",
+        "line_9",
+        "line_10",
+        "line_11",
+        "line_12",
+        "line_13",
+        "line_14",
+        "line_16",
+        "line_15",
+        "line_17",
+        "line_18",
+        "line_19",
+        "line_20",
+        "line_21",
+        "line_22",
+        "line_23",
+        "line_24",
+        "line_25",
+        "line_26",
+        "line_27",
+        "line_28",
+        "line_29",
+        "line_30",
+        "line_31",
+        "line_32",
+        "line_33",
+        "line_34",
+        "line_35",
+        "line_36",
+        "line_38",
+        "line_37",
+        "line_39",
+        "line_40"
+      ],
+      "leading_blank": true,
+      "page_number": 1
+    }
+  ]
+}

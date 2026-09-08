@@ -1,0 +1,280 @@
+{
+  "extraction_version": "1.1",
+  "document_id": "DOC-6548A9AB",
+  "summary": {
+    "total_fields": 21,
+    "extracted_fields": 8,
+    "missing_fields": 13
+  },
+  "fields": {
+    "owner_name": {
+      "field": "owner_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "father_name": {
+      "field": "father_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "address": {
+      "field": "address",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "village": {
+      "field": "village",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "tehsil": {
+      "field": "tehsil",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "district": {
+      "field": "district",
+      "value": "eee",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": "NORTHERN | DISTRICT eee",
+      "source_line_ids": [
+        13
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "district"
+    },
+    "survey_number": {
+      "field": "survey_number",
+      "value": "54/2",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": "— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2",
+      "source_line_ids": [
+        11
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "survey number"
+    },
+    "khasra_number": {
+      "field": "khasra_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "khata_number": {
+      "field": "khata_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "plot_area": {
+      "field": "plot_area",
+      "value": "10.5",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND CHARACTERISTICS",
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "plot area"
+    },
+    "land_classification": {
+      "field": "land_classification",
+      "value": "IRRIGATED | AGRICULTURAL | LANO",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND CHARACTERISTICS",
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "land classification"
+    },
+    "serial_number": {
+      "field": "serial_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "ownership_owner_name": {
+      "field": "ownership_owner_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "ownership_share": {
+      "field": "ownership_share",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "nature_of_rights": {
+      "field": "nature_of_rights",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "mutation_entry_number": {
+      "field": "mutation_entry_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "mutation_date": {
+      "field": "mutation_date",
+      "value": "12/03/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": "AE oe | = | y | Date: 12/03/2018",
+      "source_line_ids": [
+        26
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date"
+    },
+    "mutation_type": {
+      "field": "mutation_type",
+      "value": "Inheritance (from | Robert L. Sterling).",
+      "status": "extracted",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": "ae | Type: Inheritance (from | Robert L. Sterling).",
+      "source_line_ids": [
+        27
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "type"
+    },
+    "registered_document_number": {
+      "field": "registered_document_number",
+      "value": "789/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": "SS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N",
+      "source_line_ids": [
+        31
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "registered document no"
+    },
+    "sub_registrar_office": {
+      "field": "sub_registrar_office",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "registration_date": {
+      "field": "registration_date",
+      "value": "15/03/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": "Se ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar",
+      "source_line_ids": [
+        33
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date"
+    }
+  },
+  "document_text": "= ee\n\n[TABLE - structure detected heuristically, unvalidated]\nsp | Government | of [State/Country] - Department | of Revenue | a\n; | Se ee\nSS | See | — | LANDOWNER DETAILS\nSESS\n<a | Z\nSS | ee | Late Robert | L. Sterling\neee | =~ | 123 Maple | Lane, Green Valley\nSSS\nSe | == | © FSS | : LAND IDENTIFICATION\n— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2\nSS ase a | Khssra Number\nNORTHERN | DISTRICT eee\nae | a | Sata\nee | ee\n= | LAND CHARACTERISTICS | :\nSS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO\nSs | = 4 | (4.25 | Hectares) | (Category A)\na\n= | — | OWNERSHIP DETAILS\nie — - Se | es. ~~\n> Se | = s - jo [aia | | Arthur J. | Sterling 5 1/1 (Full) | Ancestral | Property, Bhumidhar (Permanent)\n= Aes | >\nEE | —— | a 2 | MUTATION RECORDS\nSee a | \\ | mes oy | Latest Mutation Entry ‘ | No. 456\nAE oe | = | y | Date: 12/03/2018\nae | Type: Inheritance (from | Robert L. Sterling).\naie\nREGISTRATION INFORMATION\nei ees | LES | Mica | =\nSS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N\nee | Sub-Registtar Office | [District] &/ revenue \\% | Sgnilahe-\nSe ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar\nRies wy, x ay | . \" | = | Date: ea 20/10/2023.\nCre EY | Se\n—\nvii\nWim\ni\ni"
+}

@@ -1,0 +1,735 @@
+{
+  "human_verification_version": "1.0",
+  "document_id": "DOC-6548A9AB",
+  "status": "pending_review",
+  "created_at": "2026-09-04T09:11:27.360373+00:00",
+  "completed_at": null,
+  "fields": {
+    "owner_name": {
+      "field": "owner_name",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "owner_name",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "father_name": {
+      "field": "father_name",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "father_name",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "address": {
+      "field": "address",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "address",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "village": {
+      "field": "village",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "village",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "tehsil": {
+      "field": "tehsil",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "tehsil",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "district": {
+      "field": "district",
+      "machine_value": "eee",
+      "raw_value": "eee",
+      "normalized_value": "eee",
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "warning",
+      "validation_issues": [
+        {
+          "code": "LOCATION_REPEATED_CHARACTER",
+          "severity": "warning",
+          "message": "Location contains an unusually repeated single character and may be OCR noise.",
+          "field": "district",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 64.0,
+      "confidence_level": "low",
+      "confidence_reason": "Validation produced warning(s).; Confidence is below the automatic acceptance threshold.",
+      "review_reasons": [
+        "Validation produced warning(s).; Confidence is below the automatic acceptance threshold.",
+        "Location contains an unusually repeated single character and may be OCR noise."
+      ],
+      "source_text": "NORTHERN | DISTRICT eee",
+      "source_line_ids": [
+        13
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "district"
+    },
+    "survey_number": {
+      "field": "survey_number",
+      "machine_value": "54/2",
+      "raw_value": "54/2",
+      "normalized_value": "54/2",
+      "verified_value": "54/2",
+      "review_required": false,
+      "decision": "auto_accepted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_reason": "Field has sufficient supporting evidence.",
+      "review_reasons": [],
+      "source_text": "— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2",
+      "source_line_ids": [
+        11
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "survey number"
+    },
+    "khasra_number": {
+      "field": "khasra_number",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "khasra_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "khata_number": {
+      "field": "khata_number",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "khata_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "plot_area": {
+      "field": "plot_area",
+      "machine_value": "10.5",
+      "raw_value": "10.5",
+      "normalized_value": "10.5",
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "warning",
+      "validation_issues": [
+        {
+          "code": "AREA_UNIT_MISSING",
+          "severity": "warning",
+          "message": "Area value does not include a unit.",
+          "field": "plot_area",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 64.0,
+      "confidence_level": "low",
+      "confidence_reason": "Validation produced warning(s).; Confidence is below the automatic acceptance threshold.",
+      "review_reasons": [
+        "Validation produced warning(s).; Confidence is below the automatic acceptance threshold.",
+        "Area value does not include a unit."
+      ],
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "plot area"
+    },
+    "land_classification": {
+      "field": "land_classification",
+      "machine_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "raw_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "normalized_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "verified_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "review_required": false,
+      "decision": "auto_accepted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_reason": "Field has sufficient supporting evidence.",
+      "review_reasons": [],
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "land classification"
+    },
+    "serial_number": {
+      "field": "serial_number",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "serial_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "ownership_owner_name": {
+      "field": "ownership_owner_name",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "ownership_owner_name",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "ownership_share": {
+      "field": "ownership_share",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "ownership_share",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "nature_of_rights": {
+      "field": "nature_of_rights",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "nature_of_rights",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "mutation_entry_number": {
+      "field": "mutation_entry_number",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "mutation_entry_number",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "mutation_date": {
+      "field": "mutation_date",
+      "machine_value": "2018-03-12",
+      "raw_value": "12/03/2018",
+      "normalized_value": "2018-03-12",
+      "verified_value": "2018-03-12",
+      "review_required": false,
+      "decision": "auto_accepted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_reason": "Field has sufficient supporting evidence.",
+      "review_reasons": [],
+      "source_text": "AE oe | = | y | Date: 12/03/2018",
+      "source_line_ids": [
+        26
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date"
+    },
+    "mutation_type": {
+      "field": "mutation_type",
+      "machine_value": "Inheritance (from | Robert L. Sterling).",
+      "raw_value": "Inheritance (from | Robert L. Sterling).",
+      "normalized_value": "Inheritance (from | Robert L. Sterling).",
+      "verified_value": "Inheritance (from | Robert L. Sterling).",
+      "review_required": false,
+      "decision": "auto_accepted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_reason": "Field has sufficient supporting evidence.",
+      "review_reasons": [],
+      "source_text": "ae | Type: Inheritance (from | Robert L. Sterling).",
+      "source_line_ids": [
+        27
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "type"
+    },
+    "registered_document_number": {
+      "field": "registered_document_number",
+      "machine_value": "789/2018",
+      "raw_value": "789/2018",
+      "normalized_value": "789/2018",
+      "verified_value": "789/2018",
+      "review_required": false,
+      "decision": "auto_accepted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_reason": "Field has sufficient supporting evidence.",
+      "review_reasons": [],
+      "source_text": "SS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N",
+      "source_line_ids": [
+        31
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "registered document no"
+    },
+    "sub_registrar_office": {
+      "field": "sub_registrar_office",
+      "machine_value": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "verified_value": null,
+      "review_required": true,
+      "decision": "pending",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "sub_registrar_office",
+          "scope": "field"
+        }
+      ],
+      "confidence_score": 0.0,
+      "confidence_level": "critical",
+      "confidence_reason": "Field has no normalized value.",
+      "review_reasons": [
+        "Field has no normalized value."
+      ],
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": null,
+      "matched_label": null
+    },
+    "registration_date": {
+      "field": "registration_date",
+      "machine_value": "2018-03-15",
+      "raw_value": "15/03/2018",
+      "normalized_value": "2018-03-15",
+      "verified_value": "2018-03-15",
+      "review_required": false,
+      "decision": "auto_accepted",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "human_reason": null,
+      "validation_status": "valid",
+      "validation_issues": [],
+      "confidence_score": 87.85,
+      "confidence_level": "high",
+      "confidence_reason": "Field has sufficient supporting evidence.",
+      "review_reasons": [],
+      "source_text": "Se ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar",
+      "source_line_ids": [
+        33
+      ],
+      "source_page": null,
+      "source_bbox": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date"
+    }
+  },
+  "review_queue": [
+    "owner_name",
+    "father_name",
+    "address",
+    "village",
+    "tehsil",
+    "district",
+    "khasra_number",
+    "khata_number",
+    "plot_area",
+    "serial_number",
+    "ownership_owner_name",
+    "ownership_share",
+    "nature_of_rights",
+    "mutation_entry_number",
+    "sub_registrar_office"
+  ],
+  "duplicate_decision": {
+    "machine_classification": "not_duplicate",
+    "review_required": false,
+    "human_decision": null,
+    "verified_by": null,
+    "verified_at": null,
+    "reason": null,
+    "best_match": {
+      "document_id": "EXISTING-DOC-001"
+    },
+    "matched_identifiers": [],
+    "conflicting_identifiers": [
+      "registered_document_number",
+      "survey_number"
+    ],
+    "match_reasons": [
+      "Comparable identifiers were present but none matched."
+    ]
+  },
+  "audit_trail": [],
+  "source_versions": {
+    "confidence": "1.0",
+    "validation": "1.0",
+    "normalization": "1.0",
+    "extraction": "1.1"
+  },
+  "summary": {
+    "total_fields": 21,
+    "fields_requiring_review": 15,
+    "fields_reviewed": 0,
+    "fields_accepted": 0,
+    "fields_auto_accepted": 6,
+    "fields_edited": 0,
+    "fields_rejected": 0,
+    "fields_pending": 15,
+    "duplicate_review_pending": false
+  }
+}

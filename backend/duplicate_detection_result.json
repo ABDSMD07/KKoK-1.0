@@ -1,0 +1,77 @@
+{
+  "duplicate_detection_version": "1.0",
+  "source_validation_version": "1.0",
+  "document_id": "DOC-6548A9AB",
+  "status": "not_duplicate",
+  "best_match": {
+    "document_id": "EXISTING-DOC-001"
+  },
+  "matched_identifiers": [],
+  "conflicting_identifiers": [
+    "registered_document_number",
+    "survey_number"
+  ],
+  "missing_identifiers": [
+    "mutation_entry_number",
+    "khasra_number",
+    "khata_number"
+  ],
+  "match_reasons": [
+    "Comparable identifiers were present but none matched."
+  ],
+  "candidate_identifiers": {
+    "registered_document_number": "789/2018",
+    "mutation_entry_number": null,
+    "survey_number": "54/2",
+    "khasra_number": null,
+    "khata_number": null
+  },
+  "summary": {
+    "existing_records_received": 1,
+    "records_compared": 1,
+    "invalid_existing_records": 0,
+    "strong_duplicate_matches": 0,
+    "possible_duplicate_matches": 0
+  },
+  "candidate_matches": [
+    {
+      "document_id": "EXISTING-DOC-001",
+      "status": "not_duplicate",
+      "matched_identifiers": [],
+      "conflicting_identifiers": [
+        "registered_document_number",
+        "survey_number"
+      ],
+      "missing_identifiers": [
+        "mutation_entry_number",
+        "khasra_number",
+        "khata_number"
+      ],
+      "match_reasons": [
+        "Comparable identifiers were present but none matched."
+      ],
+      "identifier_comparison": {
+        "registered_document_number": {
+          "candidate": "789/2018",
+          "existing": "999/2020"
+        },
+        "mutation_entry_number": {
+          "candidate": null,
+          "existing": "MUT-999"
+        },
+        "survey_number": {
+          "candidate": "54/2",
+          "existing": "999"
+        },
+        "khasra_number": {
+          "candidate": null,
+          "existing": "999"
+        },
+        "khata_number": {
+          "candidate": null,
+          "existing": "999"
+        }
+      }
+    }
+  ]
+}

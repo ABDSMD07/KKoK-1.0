@@ -1,0 +1,646 @@
+{
+  "validation_version": "1.0",
+  "source_normalization_version": "1.0",
+  "source_extraction_version": "1.1",
+  "document_id": "DOC-6548A9AB",
+  "structurally_valid": true,
+  "summary": {
+    "total_fields": 21,
+    "valid_fields": 6,
+    "warning_fields": 2,
+    "invalid_fields": 0,
+    "missing_fields": 13,
+    "not_checked_fields": 0,
+    "issue_count": 15,
+    "error_count": 0,
+    "warning_count": 15
+  },
+  "fields": {
+    "owner_name": {
+      "field": "owner_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "owner_name",
+          "scope": "field"
+        }
+      ]
+    },
+    "father_name": {
+      "field": "father_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "father_name",
+          "scope": "field"
+        }
+      ]
+    },
+    "address": {
+      "field": "address",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LANDOWNER DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "address",
+          "scope": "field"
+        }
+      ]
+    },
+    "village": {
+      "field": "village",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "village",
+          "scope": "field"
+        }
+      ]
+    },
+    "tehsil": {
+      "field": "tehsil",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "tehsil",
+          "scope": "field"
+        }
+      ]
+    },
+    "district": {
+      "field": "district",
+      "value": "eee",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": "NORTHERN | DISTRICT eee",
+      "source_line_ids": [
+        13
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "district",
+      "raw_value": "eee",
+      "normalized_value": "eee",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "warning",
+      "validation_issues": [
+        {
+          "code": "LOCATION_REPEATED_CHARACTER",
+          "severity": "warning",
+          "message": "Location contains an unusually repeated single character and may be OCR noise.",
+          "field": "district",
+          "scope": "field"
+        }
+      ]
+    },
+    "survey_number": {
+      "field": "survey_number",
+      "value": "54/2",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": "— gS | ee | ee aS | GREEN VALLEY | Survey Number / | 54/2",
+      "source_line_ids": [
+        11
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "survey number",
+      "raw_value": "54/2",
+      "normalized_value": "54/2",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": []
+    },
+    "khasra_number": {
+      "field": "khasra_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "khasra_number",
+          "scope": "field"
+        }
+      ]
+    },
+    "khata_number": {
+      "field": "khata_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "LAND IDENTIFICATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "khata_number",
+          "scope": "field"
+        }
+      ]
+    },
+    "plot_area": {
+      "field": "plot_area",
+      "value": "10.5",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND CHARACTERISTICS",
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "plot area",
+      "raw_value": "10.5",
+      "normalized_value": "10.5",
+      "structured_value": {
+        "value": "10.5",
+        "unit": null
+      },
+      "normalization_status": "normalized",
+      "validation_status": "warning",
+      "validation_issues": [
+        {
+          "code": "AREA_UNIT_MISSING",
+          "severity": "warning",
+          "message": "Area value does not include a unit.",
+          "field": "plot_area",
+          "scope": "field"
+        }
+      ]
+    },
+    "land_classification": {
+      "field": "land_classification",
+      "value": "IRRIGATED | AGRICULTURAL | LANO",
+      "status": "extracted",
+      "confidence": null,
+      "section": "LAND CHARACTERISTICS",
+      "source_text": "SS | = | Plot Area 10.5 | ACRES Land Classification | IRRIGATED | AGRICULTURAL | LANO",
+      "source_line_ids": [
+        17
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "land classification",
+      "raw_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "normalized_value": "IRRIGATED | AGRICULTURAL | LANO",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": []
+    },
+    "serial_number": {
+      "field": "serial_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "serial_number",
+          "scope": "field"
+        }
+      ]
+    },
+    "ownership_owner_name": {
+      "field": "ownership_owner_name",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "ownership_owner_name",
+          "scope": "field"
+        }
+      ]
+    },
+    "ownership_share": {
+      "field": "ownership_share",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "ownership_share",
+          "scope": "field"
+        }
+      ]
+    },
+    "nature_of_rights": {
+      "field": "nature_of_rights",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "OWNERSHIP DETAILS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "nature_of_rights",
+          "scope": "field"
+        }
+      ]
+    },
+    "mutation_entry_number": {
+      "field": "mutation_entry_number",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "mutation_entry_number",
+          "scope": "field"
+        }
+      ]
+    },
+    "mutation_date": {
+      "field": "mutation_date",
+      "value": "12/03/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": "AE oe | = | y | Date: 12/03/2018",
+      "source_line_ids": [
+        26
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date",
+      "raw_value": "12/03/2018",
+      "normalized_value": "2018-03-12",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": []
+    },
+    "mutation_type": {
+      "field": "mutation_type",
+      "value": "Inheritance (from | Robert L. Sterling).",
+      "status": "extracted",
+      "confidence": null,
+      "section": "MUTATION RECORDS",
+      "source_text": "ae | Type: Inheritance (from | Robert L. Sterling).",
+      "source_line_ids": [
+        27
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "type",
+      "raw_value": "Inheritance (from | Robert L. Sterling).",
+      "normalized_value": "Inheritance (from | Robert L. Sterling).",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": []
+    },
+    "registered_document_number": {
+      "field": "registered_document_number",
+      "value": "789/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": "SS | : 7 | 3 REGISTERED DOCUMENT | No. 789/2018|] 6 N",
+      "source_line_ids": [
+        31
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "registered document no",
+      "raw_value": "789/2018",
+      "normalized_value": "789/2018",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": []
+    },
+    "sub_registrar_office": {
+      "field": "sub_registrar_office",
+      "value": null,
+      "status": "missing",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": null,
+      "source_line_ids": [],
+      "source_page": null,
+      "evidence_type": null,
+      "matched_label": null,
+      "raw_value": null,
+      "normalized_value": null,
+      "structured_value": null,
+      "normalization_status": "missing",
+      "validation_status": "missing",
+      "validation_issues": [
+        {
+          "code": "FIELD_MISSING",
+          "severity": "warning",
+          "message": "Field has no normalized value.",
+          "field": "sub_registrar_office",
+          "scope": "field"
+        }
+      ]
+    },
+    "registration_date": {
+      "field": "registration_date",
+      "value": "15/03/2018",
+      "status": "extracted",
+      "confidence": null,
+      "section": "REGISTRATION INFORMATION",
+      "source_text": "Se ee ey | Bee = —— ey, | Date: 15/03/2018. | (DEPARTMENT } 4: | Revenue Officer / Tehsiidar",
+      "source_line_ids": [
+        33
+      ],
+      "source_page": null,
+      "evidence_type": "composer_fallback",
+      "matched_label": "date",
+      "raw_value": "15/03/2018",
+      "normalized_value": "2018-03-15",
+      "structured_value": null,
+      "normalization_status": "normalized",
+      "validation_status": "valid",
+      "validation_issues": []
+    }
+  },
+  "issues": [
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "owner_name",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "father_name",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "address",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "village",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "tehsil",
+      "scope": "field"
+    },
+    {
+      "code": "LOCATION_REPEATED_CHARACTER",
+      "severity": "warning",
+      "message": "Location contains an unusually repeated single character and may be OCR noise.",
+      "field": "district",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "khasra_number",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "khata_number",
+      "scope": "field"
+    },
+    {
+      "code": "AREA_UNIT_MISSING",
+      "severity": "warning",
+      "message": "Area value does not include a unit.",
+      "field": "plot_area",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "serial_number",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "ownership_owner_name",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "ownership_share",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "nature_of_rights",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "mutation_entry_number",
+      "scope": "field"
+    },
+    {
+      "code": "FIELD_MISSING",
+      "severity": "warning",
+      "message": "Field has no normalized value.",
+      "field": "sub_registrar_office",
+      "scope": "field"
+    }
+  ],
+  "structural_issues": [],
+  "cross_field_issues": []
+}

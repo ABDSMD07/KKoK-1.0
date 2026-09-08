@@ -1,0 +1,2909 @@
+{
+    "engine": "Tesseract",
+    "tesseract_version": "5.4.0.20240606",
+    "document_confidence": 87.11,
+    "page_count": 1,
+    "word_count": 289,
+    "text": "y GOVERNMENT OF MAHARASHTRA 4 wt REVENUE DEPARTMENT : (Land Records - Village Form No. 7/12) ee (Aldaet Sat) District Taluka Village Survey No. / Gat No. Document Type _ Pune Haveli Wagholi 123/4 7/12 Extract 1. Land Details 2. Owner Details Sr.No. Field Details Owner Name Ramesh Shankar Patil Suivey No. /iGat Ne: 123/4 Father's Name Shankar Tryambak Patil Hissa No. 1 Address At/Post - Wagholi Khata No. 542 Taluka - Haveli Area (Hectare) 0.4050 District - Pune Pin Code - 412207 Area (Acre) 1.00 Land Use Agricultural | Mobile No. +91 98765 43210 Current Crop Sugarcane | Aadhaar No. XXXX-XXXX-7890 Irrigation Canal 3. Land Plot Map (Sketch) Soil Type Medium Black : Land Type Dry (Partially Irrigated) 4. 8A Extract Details Survey No, : 123/4 | 8A Number MH-08A-2025-01472 Area - 0.4050 Ha Classification Agricultural Scale : Not to Scale Land Possession Ramesh Shankar Patil Remarks No dispute 5. Crop Details | 6, Mutation History | ] Seas Crop prea (1ia) weld (Qe) Sr.No. Mutation No. Date Details Kharif Sugarcane 0.4050 320 MU-2018-00456 12-06-2018 Name transfer (Ramesh Patil) | Rabi Wheat 0.0000 0 MU-2020-00789 03-11-2020 Partition | Summer Fallow 0.0000 0 MU-2023-01123 18-04-2023 Area correction 7. Encumbrance / Loan Details 8. Verification & Extract Information SEL | Wd Bank // Authority Amount Status Extracted On 08-09-2025 04:32 PM Agricultural Loan State Bank of India % 2,50,000 Active Verified By Talathi, Wagholi Status @ Verified No Other Encumbrance Confidence Score 94.8% 9. Notes 1. This is a computer generated copy of 7/12 extract for reference purpose only. 7 we Js 2. For official use, please verify with the concerned Talathi / Circle Office. Talathi 3. This document does not constitute any legal title or ownership. Wagholi Haveli, Pune",
+    "pages": [
+        {
+            "image": "page_0001.png",
+            "text": "y GOVERNMENT OF MAHARASHTRA 4 wt REVENUE DEPARTMENT : (Land Records - Village Form No. 7/12) ee (Aldaet Sat) District Taluka Village Survey No. / Gat No. Document Type _ Pune Haveli Wagholi 123/4 7/12 Extract 1. Land Details 2. Owner Details Sr.No. Field Details Owner Name Ramesh Shankar Patil Suivey No. /iGat Ne: 123/4 Father's Name Shankar Tryambak Patil Hissa No. 1 Address At/Post - Wagholi Khata No. 542 Taluka - Haveli Area (Hectare) 0.4050 District - Pune Pin Code - 412207 Area (Acre) 1.00 Land Use Agricultural | Mobile No. +91 98765 43210 Current Crop Sugarcane | Aadhaar No. XXXX-XXXX-7890 Irrigation Canal 3. Land Plot Map (Sketch) Soil Type Medium Black : Land Type Dry (Partially Irrigated) 4. 8A Extract Details Survey No, : 123/4 | 8A Number MH-08A-2025-01472 Area - 0.4050 Ha Classification Agricultural Scale : Not to Scale Land Possession Ramesh Shankar Patil Remarks No dispute 5. Crop Details | 6, Mutation History | ] Seas Crop prea (1ia) weld (Qe) Sr.No. Mutation No. Date Details Kharif Sugarcane 0.4050 320 MU-2018-00456 12-06-2018 Name transfer (Ramesh Patil) | Rabi Wheat 0.0000 0 MU-2020-00789 03-11-2020 Partition | Summer Fallow 0.0000 0 MU-2023-01123 18-04-2023 Area correction 7. Encumbrance / Loan Details 8. Verification & Extract Information SEL | Wd Bank // Authority Amount Status Extracted On 08-09-2025 04:32 PM Agricultural Loan State Bank of India % 2,50,000 Active Verified By Talathi, Wagholi Status @ Verified No Other Encumbrance Confidence Score 94.8% 9. Notes 1. This is a computer generated copy of 7/12 extract for reference purpose only. 7 we Js 2. For official use, please verify with the concerned Talathi / Circle Office. Talathi 3. This document does not constitute any legal title or ownership. Wagholi Haveli, Pune",
+            "confidence": 87.11,
+            "word_count": 289,
+            "words": [
+                {
+                    "text": "y",
+                    "confidence": 0.0,
+                    "bbox": {
+                        "x": 197,
+                        "y": 161,
+                        "width": 21,
+                        "height": 11
+                    }
+                },
+                {
+                    "text": "GOVERNMENT",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 704,
+                        "y": 94,
+                        "width": 528,
+                        "height": 55
+                    }
+                },
+                {
+                    "text": "OF",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1266,
+                        "y": 94,
+                        "width": 94,
+                        "height": 55
+                    }
+                },
+                {
+                    "text": "MAHARASHTRA",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1406,
+                        "y": 94,
+                        "width": 630,
+                        "height": 56
+                    }
+                },
+                {
+                    "text": "4",
+                    "confidence": 46.0,
+                    "bbox": {
+                        "x": 176,
+                        "y": 196,
+                        "width": 5,
+                        "height": 4
+                    }
+                },
+                {
+                    "text": "wt",
+                    "confidence": 24.0,
+                    "bbox": {
+                        "x": 223,
+                        "y": 176,
+                        "width": 107,
+                        "height": 143
+                    }
+                },
+                {
+                    "text": "REVENUE",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 923,
+                        "y": 190,
+                        "width": 340,
+                        "height": 54
+                    }
+                },
+                {
+                    "text": "DEPARTMENT",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1307,
+                        "y": 190,
+                        "width": 505,
+                        "height": 54
+                    }
+                },
+                {
+                    "text": ":",
+                    "confidence": 51.0,
+                    "bbox": {
+                        "x": 234,
+                        "y": 388,
+                        "width": 11,
+                        "height": 4
+                    }
+                },
+                {
+                    "text": "(Land",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 870,
+                        "y": 394,
+                        "width": 139,
+                        "height": 54
+                    }
+                },
+                {
+                    "text": "Records",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 1031,
+                        "y": 397,
+                        "width": 196,
+                        "height": 43
+                    }
+                },
+                {
+                    "text": "-",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 1249,
+                        "y": 422,
+                        "width": 17,
+                        "height": 5
+                    }
+                },
+                {
+                    "text": "Village",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1286,
+                        "y": 397,
+                        "width": 172,
+                        "height": 56
+                    }
+                },
+                {
+                    "text": "Form",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1480,
+                        "y": 400,
+                        "width": 135,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1636,
+                        "y": 400,
+                        "width": 84,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "7/12)",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1744,
+                        "y": 396,
+                        "width": 121,
+                        "height": 53
+                    }
+                },
+                {
+                    "text": "ee",
+                    "confidence": 14.0,
+                    "bbox": {
+                        "x": 2269,
+                        "y": 395,
+                        "width": 261,
+                        "height": 81
+                    }
+                },
+                {
+                    "text": "(Aldaet",
+                    "confidence": 0.0,
+                    "bbox": {
+                        "x": 1164,
+                        "y": 484,
+                        "width": 222,
+                        "height": 60
+                    }
+                },
+                {
+                    "text": "Sat)",
+                    "confidence": 20.0,
+                    "bbox": {
+                        "x": 1410,
+                        "y": 485,
+                        "width": 169,
+                        "height": 59
+                    }
+                },
+                {
+                    "text": "District",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 108,
+                        "y": 613,
+                        "width": 126,
+                        "height": 48
+                    }
+                },
+                {
+                    "text": "Taluka",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 629,
+                        "y": 617,
+                        "width": 113,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Village",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1169,
+                        "y": 618,
+                        "width": 117,
+                        "height": 39
+                    }
+                },
+                {
+                    "text": "Survey",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1693,
+                        "y": 621,
+                        "width": 115,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1820,
+                        "y": 621,
+                        "width": 54,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "/",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1886,
+                        "y": 619,
+                        "width": 14,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "Gat",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1911,
+                        "y": 621,
+                        "width": 58,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1980,
+                        "y": 621,
+                        "width": 54,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Document",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2219,
+                        "y": 621,
+                        "width": 177,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "Type",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2405,
+                        "y": 621,
+                        "width": 81,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "_",
+                    "confidence": 52.0,
+                    "bbox": {
+                        "x": 62,
+                        "y": 703,
+                        "width": 2,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "Pune",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 107,
+                        "y": 689,
+                        "width": 100,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Haveli",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 631,
+                        "y": 682,
+                        "width": 123,
+                        "height": 57
+                    }
+                },
+                {
+                    "text": "Wagholi",
+                    "confidence": 87.0,
+                    "bbox": {
+                        "x": 1169,
+                        "y": 683,
+                        "width": 167,
+                        "height": 56
+                    }
+                },
+                {
+                    "text": "123/4",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 1693,
+                        "y": 688,
+                        "width": 118,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "7/12",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 2219,
+                        "y": 688,
+                        "width": 93,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "Extract",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2329,
+                        "y": 690,
+                        "width": 143,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "1.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 100,
+                        "y": 853,
+                        "width": 29,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Land",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 161,
+                        "y": 850,
+                        "width": 98,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 277,
+                        "y": 850,
+                        "width": 139,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "2.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1537,
+                        "y": 854,
+                        "width": 35,
+                        "height": 35
+                    }
+                },
+                {
+                    "text": "Owner",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1619,
+                        "y": 854,
+                        "width": 134,
+                        "height": 35
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1767,
+                        "y": 852,
+                        "width": 136,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Sr.No.",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 104,
+                        "y": 954,
+                        "width": 110,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Field",
+                    "confidence": 25.0,
+                    "bbox": {
+                        "x": 293,
+                        "y": 953,
+                        "width": 80,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 834,
+                        "y": 952,
+                        "width": 113,
+                        "height": 54
+                    }
+                },
+                {
+                    "text": "Owner",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1538,
+                        "y": 967,
+                        "width": 120,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Name",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1669,
+                        "y": 966,
+                        "width": 102,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Ramesh",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1967,
+                        "y": 967,
+                        "width": 131,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Shankar",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2112,
+                        "y": 966,
+                        "width": 136,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Patil",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2260,
+                        "y": 966,
+                        "width": 70,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Suivey",
+                    "confidence": 11.0,
+                    "bbox": {
+                        "x": 292,
+                        "y": 1045,
+                        "width": 105,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 18.0,
+                    "bbox": {
+                        "x": 409,
+                        "y": 1045,
+                        "width": 50,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "/iGat",
+                    "confidence": 18.0,
+                    "bbox": {
+                        "x": 471,
+                        "y": 1045,
+                        "width": 78,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Ne:",
+                    "confidence": 68.0,
+                    "bbox": {
+                        "x": 560,
+                        "y": 1045,
+                        "width": 51,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "123/4",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 838,
+                        "y": 1047,
+                        "width": 95,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Father's",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1540,
+                        "y": 1062,
+                        "width": 138,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Name",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1690,
+                        "y": 1063,
+                        "width": 102,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Shankar",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1965,
+                        "y": 1068,
+                        "width": 137,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Tryambak",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2112,
+                        "y": 1067,
+                        "width": 167,
+                        "height": 42
+                    }
+                },
+                {
+                    "text": "Patil",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 2292,
+                        "y": 1067,
+                        "width": 69,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "Hissa",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 293,
+                        "y": 1134,
+                        "width": 79,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 386,
+                        "y": 1135,
+                        "width": 50,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "1",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 838,
+                        "y": 1138,
+                        "width": 12,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Address",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1537,
+                        "y": 1158,
+                        "width": 144,
+                        "height": 50
+                    }
+                },
+                {
+                    "text": "At/Post",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 1965,
+                        "y": 1168,
+                        "width": 129,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "-",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2108,
+                        "y": 1184,
+                        "width": 10,
+                        "height": 5
+                    }
+                },
+                {
+                    "text": "Wagholi",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 2133,
+                        "y": 1166,
+                        "width": 137,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "Khata",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 293,
+                        "y": 1223,
+                        "width": 88,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 394,
+                        "y": 1225,
+                        "width": 51,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "542",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 836,
+                        "y": 1226,
+                        "width": 58,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Taluka",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1964,
+                        "y": 1232,
+                        "width": 109,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "-",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2086,
+                        "y": 1250,
+                        "width": 11,
+                        "height": 4
+                    }
+                },
+                {
+                    "text": "Haveli",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2111,
+                        "y": 1232,
+                        "width": 99,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Area",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 290,
+                        "y": 1316,
+                        "width": 70,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "(Hectare)",
+                    "confidence": 90.0,
+                    "bbox": {
+                        "x": 373,
+                        "y": 1315,
+                        "width": 140,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "0.4050",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 835,
+                        "y": 1316,
+                        "width": 109,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "District",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1967,
+                        "y": 1300,
+                        "width": 115,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "-",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2095,
+                        "y": 1315,
+                        "width": 10,
+                        "height": 5
+                    }
+                },
+                {
+                    "text": "Pune",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2119,
+                        "y": 1300,
+                        "width": 80,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Pin",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1967,
+                        "y": 1365,
+                        "width": 48,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Code",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2027,
+                        "y": 1364,
+                        "width": 83,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "-",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2124,
+                        "y": 1381,
+                        "width": 10,
+                        "height": 5
+                    }
+                },
+                {
+                    "text": "412207",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2146,
+                        "y": 1366,
+                        "width": 122,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Area",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 291,
+                        "y": 1403,
+                        "width": 68,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "(Acre)",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 371,
+                        "y": 1402,
+                        "width": 89,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "1.00",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 838,
+                        "y": 1406,
+                        "width": 66,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Land",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 293,
+                        "y": 1492,
+                        "width": 73,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Use",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 379,
+                        "y": 1493,
+                        "width": 55,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Agricultural",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 835,
+                        "y": 1493,
+                        "width": 182,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 89.0,
+                    "bbox": {
+                        "x": 1500,
+                        "y": 1520,
+                        "width": 1,
+                        "height": 11
+                    }
+                },
+                {
+                    "text": "Mobile",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1539,
+                        "y": 1466,
+                        "width": 116,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1666,
+                        "y": 1468,
+                        "width": 55,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "+91",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1967,
+                        "y": 1470,
+                        "width": 60,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "98765",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 2042,
+                        "y": 1469,
+                        "width": 100,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "43210",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 2155,
+                        "y": 1469,
+                        "width": 102,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Current",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 291,
+                        "y": 1582,
+                        "width": 118,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Crop",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 420,
+                        "y": 1582,
+                        "width": 73,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Sugarcane",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 836,
+                        "y": 1586,
+                        "width": 165,
+                        "height": 38
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1499,
+                        "y": 1532,
+                        "width": 2,
+                        "height": 100
+                    }
+                },
+                {
+                    "text": "Aadhaar",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 1536,
+                        "y": 1566,
+                        "width": 141,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1687,
+                        "y": 1568,
+                        "width": 55,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "XXXX-XXXX-7890",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 1965,
+                        "y": 1571,
+                        "width": 294,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Irrigation",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 293,
+                        "y": 1671,
+                        "width": 137,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Canal",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 836,
+                        "y": 1673,
+                        "width": 88,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "3.",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1533,
+                        "y": 1709,
+                        "width": 32,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "Land",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1596,
+                        "y": 1706,
+                        "width": 94,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Plot",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1706,
+                        "y": 1706,
+                        "width": 77,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Map",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1797,
+                        "y": 1709,
+                        "width": 85,
+                        "height": 43
+                    }
+                },
+                {
+                    "text": "(Sketch)",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1897,
+                        "y": 1706,
+                        "width": 159,
+                        "height": 44
+                    }
+                },
+                {
+                    "text": "Soil",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 292,
+                        "y": 1760,
+                        "width": 53,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "Type",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 356,
+                        "y": 1761,
+                        "width": 74,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Medium",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 837,
+                        "y": 1764,
+                        "width": 130,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Black",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 981,
+                        "y": 1764,
+                        "width": 84,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": ":",
+                    "confidence": 21.0,
+                    "bbox": {
+                        "x": 2071,
+                        "y": 1792,
+                        "width": 3,
+                        "height": 1
+                    }
+                },
+                {
+                    "text": "Land",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 293,
+                        "y": 1848,
+                        "width": 72,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Type",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 376,
+                        "y": 1850,
+                        "width": 73,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Dry",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 837,
+                        "y": 1852,
+                        "width": 55,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "(Partially",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 905,
+                        "y": 1849,
+                        "width": 143,
+                        "height": 40
+                    }
+                },
+                {
+                    "text": "Irrigated)",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1060,
+                        "y": 1849,
+                        "width": 147,
+                        "height": 40
+                    }
+                },
+                {
+                    "text": "4.",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 100,
+                        "y": 1995,
+                        "width": 34,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "8A",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 165,
+                        "y": 1995,
+                        "width": 54,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Extract",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 235,
+                        "y": 1995,
+                        "width": 141,
+                        "height": 35
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 391,
+                        "y": 1992,
+                        "width": 135,
+                        "height": 38
+                    }
+                },
+                {
+                    "text": "Survey",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2315,
+                        "y": 2074,
+                        "width": 93,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "No,",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 2419,
+                        "y": 2073,
+                        "width": 44,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": ":",
+                    "confidence": 70.0,
+                    "bbox": {
+                        "x": 2492,
+                        "y": 2081,
+                        "width": 4,
+                        "height": 18
+                    }
+                },
+                {
+                    "text": "123/4",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 2518,
+                        "y": 2073,
+                        "width": 79,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 86.0,
+                    "bbox": {
+                        "x": 66,
+                        "y": 2133,
+                        "width": 2,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "8A",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 106,
+                        "y": 2107,
+                        "width": 44,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Number",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 162,
+                        "y": 2105,
+                        "width": 132,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "MH-08A-2025-01472",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 734,
+                        "y": 2108,
+                        "width": 341,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "Area",
+                    "confidence": 30.0,
+                    "bbox": {
+                        "x": 2315,
+                        "y": 2138,
+                        "width": 63,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "-",
+                    "confidence": 60.0,
+                    "bbox": {
+                        "x": 2492,
+                        "y": 2145,
+                        "width": 4,
+                        "height": 18
+                    }
+                },
+                {
+                    "text": "0.4050",
+                    "confidence": 85.0,
+                    "bbox": {
+                        "x": 2515,
+                        "y": 2138,
+                        "width": 91,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Ha",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2616,
+                        "y": 2138,
+                        "width": 34,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "Classification",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 107,
+                        "y": 2192,
+                        "width": 211,
+                        "height": 49
+                    }
+                },
+                {
+                    "text": "Agricultural",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 733,
+                        "y": 2193,
+                        "width": 191,
+                        "height": 49
+                    }
+                },
+                {
+                    "text": "Scale",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2311,
+                        "y": 2194,
+                        "width": 74,
+                        "height": 49
+                    }
+                },
+                {
+                    "text": ":",
+                    "confidence": 56.0,
+                    "bbox": {
+                        "x": 2491,
+                        "y": 2210,
+                        "width": 5,
+                        "height": 18
+                    }
+                },
+                {
+                    "text": "Not",
+                    "confidence": 88.0,
+                    "bbox": {
+                        "x": 2515,
+                        "y": 2204,
+                        "width": 44,
+                        "height": 24
+                    }
+                },
+                {
+                    "text": "to",
+                    "confidence": 88.0,
+                    "bbox": {
+                        "x": 2568,
+                        "y": 2207,
+                        "width": 24,
+                        "height": 22
+                    }
+                },
+                {
+                    "text": "Scale",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2600,
+                        "y": 2202,
+                        "width": 66,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Land",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 108,
+                        "y": 2289,
+                        "width": 77,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Possession",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 197,
+                        "y": 2290,
+                        "width": 172,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Ramesh",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 735,
+                        "y": 2291,
+                        "width": 125,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Shankar",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 872,
+                        "y": 2291,
+                        "width": 130,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Patil",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1014,
+                        "y": 2290,
+                        "width": 67,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Remarks",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 108,
+                        "y": 2383,
+                        "width": 140,
+                        "height": 46
+                    }
+                },
+                {
+                    "text": "No",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 735,
+                        "y": 2390,
+                        "width": 41,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "dispute",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 787,
+                        "y": 2389,
+                        "width": 113,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "5.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 104,
+                        "y": 2535,
+                        "width": 31,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "Crop",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 161,
+                        "y": 2536,
+                        "width": 86,
+                        "height": 41
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 261,
+                        "y": 2533,
+                        "width": 124,
+                        "height": 35
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 15.0,
+                    "bbox": {
+                        "x": 1454,
+                        "y": 2534,
+                        "width": 47,
+                        "height": 49
+                    }
+                },
+                {
+                    "text": "6,",
+                    "confidence": 87.0,
+                    "bbox": {
+                        "x": 1533,
+                        "y": 2536,
+                        "width": 33,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Mutation",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1597,
+                        "y": 2534,
+                        "width": 176,
+                        "height": 35
+                    }
+                },
+                {
+                    "text": "History",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1786,
+                        "y": 2534,
+                        "width": 135,
+                        "height": 43
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 50.0,
+                    "bbox": {
+                        "x": 1453,
+                        "y": 2603,
+                        "width": 1,
+                        "height": 3
+                    }
+                },
+                {
+                    "text": "]",
+                    "confidence": 40.0,
+                    "bbox": {
+                        "x": 1499,
+                        "y": 2584,
+                        "width": 2,
+                        "height": 15
+                    }
+                },
+                {
+                    "text": "Seas",
+                    "confidence": 26.0,
+                    "bbox": {
+                        "x": 157,
+                        "y": 2635,
+                        "width": 108,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Crop",
+                    "confidence": 74.0,
+                    "bbox": {
+                        "x": 538,
+                        "y": 2635,
+                        "width": 71,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "prea",
+                    "confidence": 52.0,
+                    "bbox": {
+                        "x": 859,
+                        "y": 2636,
+                        "width": 72,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "(1ia)",
+                    "confidence": 0.0,
+                    "bbox": {
+                        "x": 944,
+                        "y": 2633,
+                        "width": 64,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "weld",
+                    "confidence": 62.0,
+                    "bbox": {
+                        "x": 1191,
+                        "y": 2634,
+                        "width": 78,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "(Qe)",
+                    "confidence": 37.0,
+                    "bbox": {
+                        "x": 1283,
+                        "y": 2634,
+                        "width": 61,
+                        "height": 36
+                    }
+                },
+                {
+                    "text": "Sr.No.",
+                    "confidence": 83.0,
+                    "bbox": {
+                        "x": 1528,
+                        "y": 2661,
+                        "width": 94,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Mutation",
+                    "confidence": 83.0,
+                    "bbox": {
+                        "x": 1668,
+                        "y": 2661,
+                        "width": 141,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "No.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1820,
+                        "y": 2662,
+                        "width": 51,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Date",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1958,
+                        "y": 2663,
+                        "width": 70,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2226,
+                        "y": 2656,
+                        "width": 111,
+                        "height": 47
+                    }
+                },
+                {
+                    "text": "Kharif",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 159,
+                        "y": 2724,
+                        "width": 89,
+                        "height": 46
+                    }
+                },
+                {
+                    "text": "Sugarcane",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 485,
+                        "y": 2724,
+                        "width": 152,
+                        "height": 46
+                    }
+                },
+                {
+                    "text": "0.4050",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 875,
+                        "y": 2730,
+                        "width": 107,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "320",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1239,
+                        "y": 2731,
+                        "width": 56,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "MU-2018-00456",
+                    "confidence": 89.0,
+                    "bbox": {
+                        "x": 1667,
+                        "y": 2779,
+                        "width": 220,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "12-06-2018",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1961,
+                        "y": 2775,
+                        "width": 160,
+                        "height": 42
+                    }
+                },
+                {
+                    "text": "Name",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2227,
+                        "y": 2781,
+                        "width": 82,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "transfer",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2320,
+                        "y": 2779,
+                        "width": 110,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "(Ramesh",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2440,
+                        "y": 2780,
+                        "width": 122,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "Patil)",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2574,
+                        "y": 2779,
+                        "width": 69,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 89.0,
+                    "bbox": {
+                        "x": 2674,
+                        "y": 2772,
+                        "width": 2,
+                        "height": 70
+                    }
+                },
+                {
+                    "text": "Rabi",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 160,
+                        "y": 2824,
+                        "width": 65,
+                        "height": 45
+                    }
+                },
+                {
+                    "text": "Wheat",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 493,
+                        "y": 2824,
+                        "width": 101,
+                        "height": 44
+                    }
+                },
+                {
+                    "text": "0.0000",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 875,
+                        "y": 2829,
+                        "width": 107,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "0",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1258,
+                        "y": 2829,
+                        "width": 17,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "MU-2020-00789",
+                    "confidence": 90.0,
+                    "bbox": {
+                        "x": 1667,
+                        "y": 2891,
+                        "width": 219,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "03-11-2020",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1958,
+                        "y": 2891,
+                        "width": 162,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Partition",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2227,
+                        "y": 2889,
+                        "width": 117,
+                        "height": 39
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 80.0,
+                    "bbox": {
+                        "x": 2675,
+                        "y": 2858,
+                        "width": 1,
+                        "height": 43
+                    }
+                },
+                {
+                    "text": "Summer",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 158,
+                        "y": 2922,
+                        "width": 131,
+                        "height": 45
+                    }
+                },
+                {
+                    "text": "Fallow",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 494,
+                        "y": 2926,
+                        "width": 102,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "0.0000",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 874,
+                        "y": 2928,
+                        "width": 108,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "0",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1257,
+                        "y": 2928,
+                        "width": 18,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "MU-2023-01123",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 1667,
+                        "y": 3001,
+                        "width": 219,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "18-04-2023",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1960,
+                        "y": 3001,
+                        "width": 159,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Area",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2225,
+                        "y": 3004,
+                        "width": 62,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "correction",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2298,
+                        "y": 3003,
+                        "width": 137,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "7.",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 99,
+                        "y": 3090,
+                        "width": 29,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Encumbrance",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 151,
+                        "y": 3089,
+                        "width": 242,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "/",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 404,
+                        "y": 3088,
+                        "width": 15,
+                        "height": 37
+                    }
+                },
+                {
+                    "text": "Loan",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 431,
+                        "y": 3090,
+                        "width": 85,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "Details",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 529,
+                        "y": 3088,
+                        "width": 121,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "8.",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 1534,
+                        "y": 3132,
+                        "width": 32,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Verification",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1597,
+                        "y": 3130,
+                        "width": 204,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "&",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 1814,
+                        "y": 3132,
+                        "width": 25,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Extract",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1853,
+                        "y": 3131,
+                        "width": 122,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Information",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1987,
+                        "y": 3130,
+                        "width": 209,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "SEL",
+                    "confidence": 52.0,
+                    "bbox": {
+                        "x": 112,
+                        "y": 3209,
+                        "width": 102,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "|",
+                    "confidence": 46.0,
+                    "bbox": {
+                        "x": 247,
+                        "y": 3205,
+                        "width": 29,
+                        "height": 67
+                    }
+                },
+                {
+                    "text": "Wd",
+                    "confidence": 42.0,
+                    "bbox": {
+                        "x": 308,
+                        "y": 3210,
+                        "width": 66,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Bank",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 661,
+                        "y": 3214,
+                        "width": 65,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "//",
+                    "confidence": 12.0,
+                    "bbox": {
+                        "x": 736,
+                        "y": 3216,
+                        "width": 11,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "Authority",
+                    "confidence": 12.0,
+                    "bbox": {
+                        "x": 757,
+                        "y": 3215,
+                        "width": 126,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Amount",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1058,
+                        "y": 3217,
+                        "width": 109,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "Status",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1293,
+                        "y": 3209,
+                        "width": 84,
+                        "height": 66
+                    }
+                },
+                {
+                    "text": "Extracted",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1544,
+                        "y": 3228,
+                        "width": 145,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "On",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1699,
+                        "y": 3230,
+                        "width": 43,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "08-09-2025",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2015,
+                        "y": 3231,
+                        "width": 183,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "04:32",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2210,
+                        "y": 3231,
+                        "width": 87,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "PM",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2309,
+                        "y": 3231,
+                        "width": 49,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "Agricultural",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 297,
+                        "y": 3316,
+                        "width": 140,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "Loan",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 448,
+                        "y": 3318,
+                        "width": 57,
+                        "height": 24
+                    }
+                },
+                {
+                    "text": "State",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 661,
+                        "y": 3311,
+                        "width": 67,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Bank",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 738,
+                        "y": 3310,
+                        "width": 64,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "of",
+                    "confidence": 97.0,
+                    "bbox": {
+                        "x": 811,
+                        "y": 3309,
+                        "width": 27,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "India",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 847,
+                        "y": 3310,
+                        "width": 63,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "%",
+                    "confidence": 29.0,
+                    "bbox": {
+                        "x": 1054,
+                        "y": 3315,
+                        "width": 14,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "2,50,000",
+                    "confidence": 87.0,
+                    "bbox": {
+                        "x": 1079,
+                        "y": 3314,
+                        "width": 114,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "Active",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1297,
+                        "y": 3308,
+                        "width": 83,
+                        "height": 48
+                    }
+                },
+                {
+                    "text": "Verified",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1543,
+                        "y": 3314,
+                        "width": 117,
+                        "height": 30
+                    }
+                },
+                {
+                    "text": "By",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1672,
+                        "y": 3316,
+                        "width": 36,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Talathi,",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 2015,
+                        "y": 3312,
+                        "width": 112,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Wagholi",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 2140,
+                        "y": 3312,
+                        "width": 125,
+                        "height": 39
+                    }
+                },
+                {
+                    "text": "Status",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1542,
+                        "y": 3404,
+                        "width": 104,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "@",
+                    "confidence": 84.0,
+                    "bbox": {
+                        "x": 2020,
+                        "y": 3394,
+                        "width": 52,
+                        "height": 52
+                    }
+                },
+                {
+                    "text": "Verified",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2098,
+                        "y": 3403,
+                        "width": 121,
+                        "height": 31
+                    }
+                },
+                {
+                    "text": "No",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 298,
+                        "y": 3439,
+                        "width": 34,
+                        "height": 24
+                    }
+                },
+                {
+                    "text": "Other",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 341,
+                        "y": 3438,
+                        "width": 69,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Encumbrance",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 420,
+                        "y": 3438,
+                        "width": 165,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Confidence",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1543,
+                        "y": 3492,
+                        "width": 172,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Score",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1725,
+                        "y": 3493,
+                        "width": 83,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "94.8%",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 2015,
+                        "y": 3495,
+                        "width": 101,
+                        "height": 29
+                    }
+                },
+                {
+                    "text": "9.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 103,
+                        "y": 3605,
+                        "width": 30,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "Notes",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 158,
+                        "y": 3605,
+                        "width": 101,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "1.",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 120,
+                        "y": 3712,
+                        "width": 21,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "This",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 164,
+                        "y": 3712,
+                        "width": 58,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "is",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 233,
+                        "y": 3712,
+                        "width": 19,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "a",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 270,
+                        "y": 3720,
+                        "width": 6,
+                        "height": 17
+                    }
+                },
+                {
+                    "text": "computer",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 287,
+                        "y": 3717,
+                        "width": 129,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "generated",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 426,
+                        "y": 3714,
+                        "width": 134,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "copy",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 571,
+                        "y": 3722,
+                        "width": 64,
+                        "height": 24
+                    }
+                },
+                {
+                    "text": "of",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 645,
+                        "y": 3713,
+                        "width": 29,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "7/12",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 681,
+                        "y": 3714,
+                        "width": 61,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "extract",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 752,
+                        "y": 3719,
+                        "width": 94,
+                        "height": 20
+                    }
+                },
+                {
+                    "text": "for",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 857,
+                        "y": 3713,
+                        "width": 37,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "reference",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 905,
+                        "y": 3712,
+                        "width": 127,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "purpose",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 1043,
+                        "y": 3722,
+                        "width": 109,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "only.",
+                    "confidence": 94.0,
+                    "bbox": {
+                        "x": 1162,
+                        "y": 3714,
+                        "width": 64,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "7",
+                    "confidence": 59.0,
+                    "bbox": {
+                        "x": 1713,
+                        "y": 3721,
+                        "width": 9,
+                        "height": 11
+                    }
+                },
+                {
+                    "text": "we",
+                    "confidence": 27.0,
+                    "bbox": {
+                        "x": 1734,
+                        "y": 3697,
+                        "width": 56,
+                        "height": 58
+                    }
+                },
+                {
+                    "text": "Js",
+                    "confidence": 34.0,
+                    "bbox": {
+                        "x": 2175,
+                        "y": 3613,
+                        "width": 296,
+                        "height": 150
+                    }
+                },
+                {
+                    "text": "2.",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 118,
+                        "y": 3782,
+                        "width": 23,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "For",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 165,
+                        "y": 3783,
+                        "width": 44,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "official",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 218,
+                        "y": 3781,
+                        "width": 89,
+                        "height": 27
+                    }
+                },
+                {
+                    "text": "use,",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 317,
+                        "y": 3790,
+                        "width": 51,
+                        "height": 21
+                    }
+                },
+                {
+                    "text": "please",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 380,
+                        "y": 3783,
+                        "width": 83,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "verify",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 473,
+                        "y": 3783,
+                        "width": 76,
+                        "height": 33
+                    }
+                },
+                {
+                    "text": "with",
+                    "confidence": 97.0,
+                    "bbox": {
+                        "x": 559,
+                        "y": 3784,
+                        "width": 59,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "the",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 629,
+                        "y": 3784,
+                        "width": 42,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "concerned",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 680,
+                        "y": 3784,
+                        "width": 142,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Talathi",
+                    "confidence": 90.0,
+                    "bbox": {
+                        "x": 832,
+                        "y": 3784,
+                        "width": 92,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "/",
+                    "confidence": 92.0,
+                    "bbox": {
+                        "x": 934,
+                        "y": 3785,
+                        "width": 11,
+                        "height": 28
+                    }
+                },
+                {
+                    "text": "Circle",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 956,
+                        "y": 3784,
+                        "width": 77,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Office.",
+                    "confidence": 95.0,
+                    "bbox": {
+                        "x": 1042,
+                        "y": 3784,
+                        "width": 88,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "Talathi",
+                    "confidence": 93.0,
+                    "bbox": {
+                        "x": 2261,
+                        "y": 3808,
+                        "width": 108,
+                        "height": 32
+                    }
+                },
+                {
+                    "text": "3.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 118,
+                        "y": 3855,
+                        "width": 24,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "This",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 164,
+                        "y": 3855,
+                        "width": 56,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "document",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 230,
+                        "y": 3855,
+                        "width": 132,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "does",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 373,
+                        "y": 3857,
+                        "width": 61,
+                        "height": 25
+                    }
+                },
+                {
+                    "text": "not",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 445,
+                        "y": 3862,
+                        "width": 42,
+                        "height": 21
+                    }
+                },
+                {
+                    "text": "constitute",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 497,
+                        "y": 3859,
+                        "width": 134,
+                        "height": 24
+                    }
+                },
+                {
+                    "text": "any",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 642,
+                        "y": 3866,
+                        "width": 47,
+                        "height": 24
+                    }
+                },
+                {
+                    "text": "legal",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 700,
+                        "y": 3857,
+                        "width": 62,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "title",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 773,
+                        "y": 3857,
+                        "width": 53,
+                        "height": 26
+                    }
+                },
+                {
+                    "text": "or",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 836,
+                        "y": 3866,
+                        "width": 28,
+                        "height": 17
+                    }
+                },
+                {
+                    "text": "ownership.",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 874,
+                        "y": 3857,
+                        "width": 149,
+                        "height": 34
+                    }
+                },
+                {
+                    "text": "Wagholi",
+                    "confidence": 91.0,
+                    "bbox": {
+                        "x": 2261,
+                        "y": 3860,
+                        "width": 129,
+                        "height": 48
+                    }
+                },
+                {
+                    "text": "Haveli,",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2262,
+                        "y": 3925,
+                        "width": 104,
+                        "height": 35
+                    }
+                },
+                {
+                    "text": "Pune",
+                    "confidence": 96.0,
+                    "bbox": {
+                        "x": 2380,
+                        "y": 3927,
+                        "width": 77,
+                        "height": 29
+                    }
+                }
+            ],
+            "page_number": 1
+        }
+    ]
+}
